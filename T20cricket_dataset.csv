@@ -1,0 +1,1046 @@
+Sno,MatchID,Team1,Team2,Winner,Year,Ground,Runs,Fours,Sixes,MatchTime,Ha1,Ha2,T1w,T2w,T1b,Groundcapacity,AvgSR
+0,750,West Indies,England,England,2019,Gros Islet,287,25,13,daynight,1,0,0,1,1,12400,125.3082353
+1,751,West Indies,England,England,2019,Basseterre,223,23,6,daynight,1,0,1,0,0,8000,115.3088889
+2,752,West Indies,England,England,2019,Basseterre,140,14,7,daynight,1,0,1,0,1,8000,109.9153333
+3,772,England,Pakistan,England,2019,Cardiff,336,31,10,day,1,0,0,1,0,5500,124.6469231
+4,992,New Zealand,England,England,2019,Christchurch,302,27,11,day,1,0,0,1,1,18000,146.2533333
+5,998,New Zealand,England,New Zealand,2019,Wellington,323,19,21,day,1,0,0,1,1,33500,138.7875
+6,1001,New Zealand,England,New Zealand,2019,Nelson,324,33,11,day,1,0,1,0,1,6000,145.1994118
+7,1008,New Zealand,England,England,2019,Napier,387,29,24,night,1,0,1,0,0,10500,141.3675
+8,1012,New Zealand,England,tied,2019,Auckland,282,14,27,day,1,0,0,1,1,41000,152.3853333
+0,748,India,Australia,Australia,2019,Visakhapatnam,240,22,4,night,1,0,0,1,1,25000,123.9527778
+1,749,India,Australia,Australia,2019,Bengaluru,370,27,22,night,1,0,0,1,1,40000,129.0390909
+2,978,Australia,Sri Lanka,Australia,2019,Adelaide,318,33,11,day,1,0,0,1,1,50000,115.9666667
+3,988,Australia,Sri Lanka,Australia,2019,Brisbane,226,24,2,night,1,0,0,1,0,37000,121.7271429
+4,993,Australia,Sri Lanka,Australia,2019,Melbourne,267,13,10,night,1,0,1,0,0,90000,121.0761538
+5,999,Australia,Pakistan,no result,2019,Sydney,145,12,6,day,1,0,1,0,0,44002,126.2111111
+6,1002,Australia,Pakistan,Australia,2019,Canberra,295,32,4,night,1,0,0,1,0,12000,125.8815385
+7,1009,Australia,Pakistan,Australia,2019,Perth,201,18,6,daynight,1,0,1,0,0,20000,112.5541667
+0,732,South Africa,Pakistan,South Africa,2019,Cape Town,362,34,11,night,1,0,0,1,1,25000,127.0915789
+1,734,South Africa,Pakistan,South Africa,2019,Johannesburg,351,35,13,day,1,0,0,1,1,28000,123.3471429
+2,736,South Africa,Pakistan,Pakistan,2019,Centurion,293,27,11,night,1,0,1,0,0,20000,100.4281818
+3,755,South Africa,Sri Lanka,tied,2019,Cape Town,258,20,8,night,1,0,1,0,0,25000,115.9594737
+4,758,South Africa,Sri Lanka,South Africa,2019,Centurion,334,32,13,night,1,0,0,1,1,20000,122.37125
+5,763,South Africa,Sri Lanka,South Africa,2019,Johannesburg,308,29,14,day,1,0,0,1,1,28000,115.856
+6,888,India,South Africa,India,2019,Mohali,288,22,10,night,1,0,1,0,0,20000,137.2258333
+7,893,India,South Africa,South Africa,2019,Bengaluru,253,22,10,night,1,0,1,0,1,40000,122.9392857
+0,750,West Indies,England,England,2019,Gros Islet,287,25,13,daynight,1,0,0,1,1,12400,125.3082353
+1,751,West Indies,England,England,2019,Basseterre,223,23,6,daynight,1,0,1,0,0,8000,115.3088889
+2,752,West Indies,England,England,2019,Basseterre,140,14,7,daynight,1,0,1,0,1,8000,109.9153333
+3,842,India,West Indies,India,2019,Lauderhill,180,10,9,day,0,1,1,0,0,20000,108.9247368
+4,843,India,West Indies,India,2019,Lauderhill,248,19,10,day,0,1,1,0,1,20000,120.6253846
+5,846,West Indies,India,India,2019,Providence,287,16,16,day,1,0,0,1,1,15000,116.3407692
+6,1015,Afghanistan,West Indies,West Indies,2019,Lucknow,282,21,11,night,1,0,1,0,0,50000,117.9072222
+7,1016,Afghanistan,West Indies,Afghanistan,2019,Lucknow,239,22,4,night,1,0,1,0,1,50000,118.0005263
+8,1017,Afghanistan,West Indies,Afghanistan,2019,Lucknow,258,18,9,night,1,0,1,0,1,50000,112.2915789
+9,1020,India,West Indies,India,2019,Hyderabad (Deccan),387,23,27,night,1,0,1,0,0,20000,131.7169231
+10,1022,India,West Indies,West Indies,2019,Thiruvananthapuram,320,23,17,night,1,0,0,1,1,55000,135.5423077
+11,1024,India,West Indies,India,2019,Mumbai,395,31,28,night,1,0,0,1,1,32000,123.8206667
+0,718,New Zealand,Sri Lanka,New Zealand,2019,Auckland,295,18,17,night,1,0,0,1,1,41000,126.4395
+1,735,New Zealand,India,New Zealand,2019,Wellington,345,25,21,night,1,0,0,1,1,33500,124.9015789
+2,737,New Zealand,India,India,2019,Auckland,303,19,12,night,1,0,1,0,1,41000,141.8342857
+3,738,New Zealand,India,New Zealand,2019,Hamilton,401,31,23,night,1,0,0,1,1,10000,134.9107143
+4,878,Sri Lanka,New Zealand,New Zealand,2019,Pallekele,322,21,12,night,1,0,1,0,1,35000,132.68
+5,879,Sri Lanka,New Zealand,New Zealand,2019,Pallekele,316,24,10,night,1,0,1,0,1,35000,129.5772222
+6,880,Sri Lanka,New Zealand,Sri Lanka,2019,Pallekele,193,13,4,night,1,0,1,0,1,35000,115.9733333
+7,992,New Zealand,England,England,2019,Christchurch,302,27,11,day,1,0,0,1,1,18000,146.2533333
+8,998,New Zealand,England,New Zealand,2019,Wellington,323,19,21,day,1,0,0,1,1,33500,138.7875
+9,1001,New Zealand,England,New Zealand,2019,Nelson,324,33,11,day,1,0,1,0,1,6000,145.1994118
+10,1008,New Zealand,England,England,2019,Napier,387,29,24,night,1,0,1,0,0,10500,141.3675
+11,1012,New Zealand,England,tied,2019,Auckland,282,14,27,day,1,0,0,1,1,41000,152.3853333
+0,735,New Zealand,India,New Zealand,2019,Wellington,345,25,21,night,1,0,0,1,1,33500,124.9015789
+1,737,New Zealand,India,India,2019,Auckland,303,19,12,night,1,0,1,0,1,41000,141.8342857
+2,738,New Zealand,India,New Zealand,2019,Hamilton,401,31,23,night,1,0,0,1,1,10000,134.9107143
+3,748,India,Australia,Australia,2019,Visakhapatnam,240,22,4,night,1,0,0,1,1,25000,123.9527778
+4,749,India,Australia,Australia,2019,Bengaluru,370,27,22,night,1,0,0,1,1,40000,129.0390909
+5,842,India,West Indies,India,2019,Lauderhill,180,10,9,day,0,1,1,0,0,20000,108.9247368
+6,843,India,West Indies,India,2019,Lauderhill,248,19,10,day,0,1,1,0,1,20000,120.6253846
+7,846,West Indies,India,India,2019,Providence,287,16,16,day,1,0,0,1,1,15000,116.3407692
+8,888,India,South Africa,India,2019,Mohali,288,22,10,night,1,0,1,0,0,20000,137.2258333
+9,893,India,South Africa,South Africa,2019,Bengaluru,253,22,10,night,1,0,1,0,1,40000,122.9392857
+10,1000,India,Bangladesh,Bangladesh,2019,Delhi,291,25,11,night,1,0,0,1,1,20000,136.9792308
+11,1007,India,Bangladesh,India,2019,Rajkot,295,29,8,night,1,0,1,0,0,28000,126.6358333
+12,1014,India,Bangladesh,India,2019,Nagpur,311,32,8,night,1,0,0,1,1,45000,123.2411111
+13,1020,India,West Indies,India,2019,Hyderabad (Deccan),387,23,27,night,1,0,1,0,0,20000,131.7169231
+14,1022,India,West Indies,West Indies,2019,Thiruvananthapuram,320,23,17,night,1,0,0,1,1,55000,135.5423077
+15,1024,India,West Indies,India,2019,Mumbai,395,31,28,night,1,0,0,1,1,32000,123.8206667
+0,732,South Africa,Pakistan,South Africa,2019,Cape Town,362,34,11,night,1,0,0,1,1,25000,127.0915789
+1,734,South Africa,Pakistan,South Africa,2019,Johannesburg,351,35,13,day,1,0,0,1,1,28000,123.3471429
+2,736,South Africa,Pakistan,Pakistan,2019,Centurion,293,27,11,night,1,0,1,0,0,20000,100.4281818
+3,772,England,Pakistan,England,2019,Cardiff,336,31,10,day,1,0,0,1,0,5500,124.6469231
+4,914,Pakistan,Sri Lanka,Sri Lanka,2019,Lahore,247,22,5,night,1,0,1,0,0,20000,107.6772222
+5,922,Pakistan,Sri Lanka,Sri Lanka,2019,Lahore,308,33,9,night,1,0,0,1,0,20000,102.71
+6,925,Pakistan,Sri Lanka,Sri Lanka,2019,Lahore,262,19,6,night,1,0,0,1,0,20000,118.528125
+7,999,Australia,Pakistan,no result,2019,Sydney,145,12,6,day,1,0,1,0,0,44002,126.2111111
+8,1002,Australia,Pakistan,Australia,2019,Canberra,295,32,4,night,1,0,0,1,0,12000,125.8815385
+9,1009,Australia,Pakistan,Australia,2019,Perth,201,18,6,daynight,1,0,1,0,0,20000,112.5541667
+0,718,New Zealand,Sri Lanka,New Zealand,2019,Auckland,295,18,17,night,1,0,0,1,1,41000,126.4395
+1,755,South Africa,Sri Lanka,tied,2019,Cape Town,258,20,8,night,1,0,1,0,0,25000,115.9594737
+2,758,South Africa,Sri Lanka,South Africa,2019,Centurion,334,32,13,night,1,0,0,1,1,20000,122.37125
+3,763,South Africa,Sri Lanka,South Africa,2019,Johannesburg,308,29,14,day,1,0,0,1,1,28000,115.856
+4,878,Sri Lanka,New Zealand,New Zealand,2019,Pallekele,322,21,12,night,1,0,1,0,1,35000,132.68
+5,879,Sri Lanka,New Zealand,New Zealand,2019,Pallekele,316,24,10,night,1,0,1,0,1,35000,129.5772222
+6,880,Sri Lanka,New Zealand,Sri Lanka,2019,Pallekele,193,13,4,night,1,0,1,0,1,35000,115.9733333
+7,914,Pakistan,Sri Lanka,Sri Lanka,2019,Lahore,247,22,5,night,1,0,1,0,0,20000,107.6772222
+8,922,Pakistan,Sri Lanka,Sri Lanka,2019,Lahore,308,33,9,night,1,0,0,1,0,20000,102.71
+9,925,Pakistan,Sri Lanka,Sri Lanka,2019,Lahore,262,19,6,night,1,0,0,1,0,20000,118.528125
+10,978,Australia,Sri Lanka,Australia,2019,Adelaide,318,33,11,day,1,0,0,1,1,50000,115.9666667
+11,988,Australia,Sri Lanka,Australia,2019,Brisbane,226,24,2,night,1,0,0,1,0,37000,121.7271429
+12,993,Australia,Sri Lanka,Australia,2019,Melbourne,267,13,10,night,1,0,1,0,0,90000,121.0761538
+0,808,Netherlands,Zimbabwe,Netherlands,2019,Rotterdam,328,31,11,day,1,0,0,1,1,20000,125.0936842
+1,811,Netherlands,Zimbabwe,tied,2019,Rotterdam,295,26,8,day,1,0,1,0,1,20000,120.752
+2,825,Ireland,Zimbabwe,Ireland,2019,Bready,259,30,13,daynight,1,0,1,0,0,20000,134.7233333
+3,831,Ireland,Zimbabwe,Zimbabwe,2019,Bready,329,34,16,daynight,1,0,0,1,1,20000,124.8142857
+4,881,Bangladesh,Zimbabwe,Bangladesh,2019,Dhaka,279,26,10,night,0,1,1,0,0,25000,125.695625
+5,882,Afghanistan,Zimbabwe,Afghanistan,2019,Dhaka,348,18,25,night,1,0,0,1,1,25000,129.174
+6,886,Bangladesh,Zimbabwe,Bangladesh,2019,Chattogram,299,19,14,night,0,1,0,1,1,22000,127.0815
+7,890,Afghanistan,Zimbabwe,Zimbabwe,2019,Chattogram,299,19,17,night,1,0,1,0,1,22000,126.2453333
+8,894,Nepal,Zimbabwe,Zimbabwe,2019,Singapore,237,21,10,night,0,0,1,0,1,20000,109.1486667
+9,897,Singapore,Zimbabwe,Singapore,2019,Singapore,337,36,13,night,0,0,1,0,1,20000,104.739
+10,899,Nepal,Zimbabwe,Zimbabwe,2019,Singapore,257,22,8,night,0,0,1,0,0,20000,106.7321053
+11,902,Singapore,Zimbabwe,Zimbabwe,2019,Singapore,308,24,15,night,0,0,0,1,1,20000,128.0141667
+0,645,Australia,England,Australia,2018,Hobart,303,27,11,night,1,0,1,0,0,15000,141.6127778
+1,646,Australia,England,Australia,2018,Melbourne,256,25,8,night,1,0,1,0,0,90000,140.8669231
+2,647,New Zealand,England,New Zealand,2018,Wellington,361,30,19,night,1,0,0,1,1,33500,132.6505556
+3,650,New Zealand,England,England,2018,Hamilton,368,22,27,night,1,0,1,0,0,10000,152.1286667
+4,679,England,Australia,England,2018,Birmingham,405,37,20,daynight,1,0,0,1,1,24803,124.2133333
+5,684,England,India,India,2018,Manchester,309,30,11,daynight,1,0,0,1,1,19000,146.3428571
+6,688,England,India,England,2018,Cardiff,283,21,10,daynight,1,0,1,0,0,5500,149.9371429
+7,690,England,India,India,2018,Bristol,393,38,23,day,1,0,0,1,1,7000,144.782
+8,703,Sri Lanka,England,England,2018,Colombo (RPS),330,27,18,night,1,0,1,0,0,35000,124.5285714
+0,642,Australia,New Zealand,Australia,2018,Sydney,199,16,6,night,0,0,1,0,0,44002,132.322
+1,645,Australia,England,Australia,2018,Hobart,303,27,11,night,1,0,1,0,0,15000,141.6127778
+2,646,Australia,England,Australia,2018,Melbourne,256,25,8,night,1,0,1,0,0,90000,140.8669231
+3,649,New Zealand,Australia,Australia,2018,Auckland,456,33,32,night,0,0,1,0,1,41000,138.34
+4,653,New Zealand,Australia,Australia,2018,Auckland,257,19,10,night,0,0,1,0,1,41000,134.961875
+5,679,England,Australia,England,2018,Birmingham,405,37,20,daynight,1,0,0,1,1,24803,124.2133333
+6,682,Australia,Pakistan,Australia,2018,Harare,214,15,10,day,1,0,1,0,0,10000,130.8857143
+7,683,Zimbabwe,Australia,Australia,2018,Harare,339,31,17,day,0,1,1,0,0,10000,102.026
+8,686,Australia,Pakistan,Pakistan,2018,Harare,330,30,13,day,1,0,1,0,0,10000,122.045
+9,687,Zimbabwe,Australia,Australia,2018,Harare,284,18,11,day,0,1,1,0,1,10000,120.1388235
+10,689,Australia,Pakistan,Pakistan,2018,Harare,354,33,15,day,1,0,1,0,1,10000,139.656875
+11,700,U.A.E.,Australia,Australia,2018,Tolerance Oval,228,21,5,day,0,0,0,0,0,20000,101.2083333
+12,701,Australia,Pakistan,Pakistan,2018,Abu Dhabi,235,24,4,night,0,0,1,0,0,20000,127.572381
+13,702,Australia,Pakistan,Pakistan,2018,Dubai (DSC),255,14,10,night,0,0,0,1,0,25000,132.1844444
+14,704,Australia,Pakistan,Pakistan,2018,Dubai (DSC),256,21,9,night,0,0,0,1,0,25000,124.4733333
+15,711,Australia,South Africa,South Africa,2018,Carrara,174,17,5,night,1,0,1,0,0,15500,131.43
+16,712,Australia,India,Australia,2018,Brisbane,309,25,13,daynight,1,0,0,1,1,37000,160.488
+17,713,Australia,India,no result,2018,Melbourne,116,10,4,night,1,0,0,1,1,90000,130.9877778
+18,714,Australia,India,India,2018,Sydney,313,33,8,night,1,0,1,0,1,44002,135.3178571
+0,652,South Africa,India,India,2018,Johannesburg,359,37,12,day,1,0,1,0,0,28000,120.8211111
+1,654,South Africa,India,South Africa,2018,Centurion,369,30,19,night,1,0,1,0,0,20000,136.3366667
+2,655,South Africa,India,India,2018,Cape Town,325,28,9,night,1,0,1,0,0,25000,147.223125
+3,695,Sri Lanka,South Africa,Sri Lanka,2018,Colombo (RPS),184,21,5,night,1,0,0,1,0,35000,95.9345
+4,698,South Africa,Zimbabwe,South Africa,2018,East London,266,20,13,night,1,0,1,0,1,15000,106.2615789
+5,699,South Africa,Zimbabwe,South Africa,2018,Potchefstroom,253,22,13,night,1,0,0,1,0,20000,125.8006667
+6,711,Australia,South Africa,South Africa,2018,Carrara,174,17,5,night,1,0,1,0,0,15500,131.43
+0,637,New Zealand,West Indies,no result,2018,Mount Maunganui,99,12,4,night,1,0,0,1,1,20000,127.7916667
+1,638,New Zealand,West Indies,New Zealand,2018,Mount Maunganui,349,22,24,night,1,0,1,0,1,20000,125.27
+2,663,Pakistan,West Indies,Pakistan,2018,Karachi,246,25,9,day,1,0,0,1,1,20000,113.2055556
+3,664,Pakistan,West Indies,Pakistan,2018,Karachi,316,38,8,day,1,0,1,0,1,20000,112.383125
+4,665,Pakistan,West Indies,Pakistan,2018,Karachi,293,29,11,day,1,0,0,1,0,20000,116.2191667
+5,666,ICC World XI,West Indies,West Indies,2018,Lord's,304,22,20,night,0,1,1,0,0,30000,118.8076471
+6,692,West Indies,Bangladesh,West Indies,2018,Basseterre,216,20,10,night,1,0,1,0,0,8000,120.8425
+7,693,Bangladesh,West Indies,Bangladesh,2018,Lauderhill,316,27,15,night,0,1,0,1,1,20000,120.7355556
+8,694,Bangladesh,West Indies,Bangladesh,2018,Lauderhill,296,25,12,night,0,1,1,0,1,20000,122.3746667
+9,707,India,West Indies,India,2018,Kolkata,201,24,2,night,1,0,1,0,0,66000,126.2523529
+10,709,India,West Indies,India,2018,Lucknow,293,25,12,night,1,0,0,1,1,50000,122.8386667
+11,710,India,West Indies,India,2018,Chennai,336,33,14,night,1,0,0,1,0,38000,137.9063636
+12,715,Bangladesh,West Indies,West Indies,2018,Sylhet,245,23,12,day,1,0,1,0,1,13533,128.472
+13,716,Bangladesh,West Indies,Bangladesh,2018,Dhaka,354,37,12,daynight,1,0,0,1,1,25000,126.1417647
+14,717,Bangladesh,West Indies,West Indies,2018,Dhaka,307,24,20,daynight,1,0,1,0,0,25000,116.3754545
+0,637,New Zealand,West Indies,no result,2018,Mount Maunganui,99,12,4,night,1,0,0,1,1,20000,127.7916667
+1,638,New Zealand,West Indies,New Zealand,2018,Mount Maunganui,349,22,24,night,1,0,1,0,1,20000,125.27
+2,639,New Zealand,Pakistan,New Zealand,2018,Wellington,204,13,7,daynight,1,0,1,0,0,33500,123.268125
+3,640,New Zealand,Pakistan,Pakistan,2018,Auckland,327,29,14,night,1,0,0,1,0,41000,126.3264706
+4,641,New Zealand,Pakistan,Pakistan,2018,Mount Maunganui,335,27,14,night,1,0,0,1,0,20000,134.8475
+5,642,Australia,New Zealand,Australia,2018,Sydney,199,16,6,night,0,0,1,0,0,44002,132.322
+6,647,New Zealand,England,New Zealand,2018,Wellington,361,30,19,night,1,0,0,1,1,33500,132.6505556
+7,649,New Zealand,Australia,Australia,2018,Auckland,456,33,32,night,0,0,1,0,1,41000,138.34
+8,650,New Zealand,England,England,2018,Hamilton,368,22,27,night,1,0,1,0,0,10000,152.1286667
+9,653,New Zealand,Australia,Australia,2018,Auckland,257,19,10,night,0,0,1,0,1,41000,134.961875
+10,705,New Zealand,Pakistan,Pakistan,2018,Abu Dhabi,286,24,9,night,0,0,0,1,0,20000,134.20125
+11,706,New Zealand,Pakistan,Pakistan,2018,Dubai (DSC),294,20,11,night,0,0,1,0,1,25000,135.3986667
+12,708,New Zealand,Pakistan,Pakistan,2018,Dubai (DSC),280,26,7,night,0,0,0,1,0,25000,121.485625
+0,652,South Africa,India,India,2018,Johannesburg,359,37,12,day,1,0,1,0,0,28000,120.8211111
+1,654,South Africa,India,South Africa,2018,Centurion,369,30,19,night,1,0,1,0,0,20000,136.3366667
+2,655,South Africa,India,India,2018,Cape Town,325,28,9,night,1,0,1,0,0,25000,147.223125
+3,656,Sri Lanka,India,Sri Lanka,2018,Colombo (RPS),328,25,16,night,0,0,1,0,0,35000,141.5184615
+4,657,Bangladesh,India,India,2018,Colombo (RPS),260,25,6,night,0,0,0,1,1,35000,118.95875
+5,659,Sri Lanka,India,India,2018,Colombo (RPS),287,19,12,night,0,0,0,1,1,35000,122.6441176
+6,660,Bangladesh,India,India,2018,Colombo (RPS),325,33,11,night,0,0,1,0,0,35000,134.6741667
+7,662,Bangladesh,India,India,2018,Colombo (RPS),324,27,14,night,0,0,0,1,1,35000,120.3944444
+8,678,Ireland,India,India,2018,Dublin (Malahide),327,24,18,day,1,0,1,0,0,20000,125.0533333
+9,680,Ireland,India,India,2018,Dublin (Malahide),268,17,15,day,1,0,1,0,0,20000,125.9617647
+10,684,England,India,India,2018,Manchester,309,30,11,daynight,1,0,0,1,1,19000,146.3428571
+11,688,England,India,England,2018,Cardiff,283,21,10,daynight,1,0,1,0,0,5500,149.9371429
+12,690,England,India,India,2018,Bristol,393,38,23,day,1,0,0,1,1,7000,144.782
+13,707,India,West Indies,India,2018,Kolkata,201,24,2,night,1,0,1,0,0,66000,126.2523529
+14,709,India,West Indies,India,2018,Lucknow,293,25,12,night,1,0,0,1,1,50000,122.8386667
+15,710,India,West Indies,India,2018,Chennai,336,33,14,night,1,0,0,1,0,38000,137.9063636
+16,712,Australia,India,Australia,2018,Brisbane,309,25,13,daynight,1,0,0,1,1,37000,160.488
+17,713,Australia,India,no result,2018,Melbourne,116,10,4,night,1,0,0,1,1,90000,130.9877778
+18,714,Australia,India,India,2018,Sydney,313,33,8,night,1,0,1,0,1,44002,135.3178571
+0,639,New Zealand,Pakistan,New Zealand,2018,Wellington,204,13,7,daynight,1,0,1,0,0,33500,123.268125
+1,640,New Zealand,Pakistan,Pakistan,2018,Auckland,327,29,14,night,1,0,0,1,0,41000,126.3264706
+2,641,New Zealand,Pakistan,Pakistan,2018,Mount Maunganui,335,27,14,night,1,0,0,1,0,20000,134.8475
+3,663,Pakistan,West Indies,Pakistan,2018,Karachi,246,25,9,day,1,0,0,1,1,20000,113.2055556
+4,664,Pakistan,West Indies,Pakistan,2018,Karachi,316,38,8,day,1,0,1,0,1,20000,112.383125
+5,665,Pakistan,West Indies,Pakistan,2018,Karachi,293,29,11,day,1,0,0,1,0,20000,116.2191667
+6,671,Scotland,Pakistan,Pakistan,2018,Edinburgh,345,28,15,day,1,0,0,1,0,5000,134.0014286
+7,673,Scotland,Pakistan,Pakistan,2018,Edinburgh,233,16,10,day,1,0,0,1,0,5000,123.9478947
+8,681,Zimbabwe,Pakistan,Pakistan,2018,Harare,276,13,13,day,0,1,1,0,0,10000,106.1817647
+9,682,Australia,Pakistan,Australia,2018,Harare,214,15,10,day,1,0,1,0,0,10000,130.8857143
+10,685,Zimbabwe,Pakistan,Pakistan,2018,Harare,315,26,9,day,0,1,0,1,1,10000,125.2436364
+11,686,Australia,Pakistan,Pakistan,2018,Harare,330,30,13,day,1,0,1,0,0,10000,122.045
+12,689,Australia,Pakistan,Pakistan,2018,Harare,354,33,15,day,1,0,1,0,1,10000,139.656875
+13,701,Australia,Pakistan,Pakistan,2018,Abu Dhabi,235,24,4,night,0,0,1,0,0,20000,127.572381
+14,702,Australia,Pakistan,Pakistan,2018,Dubai (DSC),255,14,10,night,0,0,0,1,0,25000,132.1844444
+15,704,Australia,Pakistan,Pakistan,2018,Dubai (DSC),256,21,9,night,0,0,0,1,0,25000,124.4733333
+16,705,New Zealand,Pakistan,Pakistan,2018,Abu Dhabi,286,24,9,night,0,0,0,1,0,20000,134.20125
+17,706,New Zealand,Pakistan,Pakistan,2018,Dubai (DSC),294,20,11,night,0,0,1,0,1,25000,135.3986667
+18,708,New Zealand,Pakistan,Pakistan,2018,Dubai (DSC),280,26,7,night,0,0,0,1,0,25000,121.485625
+0,648,Bangladesh,Sri Lanka,Sri Lanka,2018,Dhaka,351,39,13,night,1,0,1,0,1,25000,119.0223077
+1,651,Bangladesh,Sri Lanka,Sri Lanka,2018,Sylhet,325,31,13,night,1,0,1,0,0,13533,118.6388235
+2,656,Sri Lanka,India,Sri Lanka,2018,Colombo (RPS),328,25,16,night,0,0,1,0,0,35000,141.5184615
+3,658,Sri Lanka,Bangladesh,Bangladesh,2018,Colombo (RPS),403,33,22,night,0,0,0,1,1,35000,130.9093333
+4,659,Sri Lanka,India,India,2018,Colombo (RPS),287,19,12,night,0,0,0,1,1,35000,122.6441176
+5,661,Sri Lanka,Bangladesh,Bangladesh,2018,Colombo (RPS),301,25,8,night,0,0,0,1,1,35000,117.42
+6,695,Sri Lanka,South Africa,Sri Lanka,2018,Colombo (RPS),184,21,5,night,1,0,0,1,0,35000,95.9345
+7,703,Sri Lanka,England,England,2018,Colombo (RPS),330,27,18,night,1,0,1,0,0,35000,124.5285714
+0,643,Afghanistan,Zimbabwe,Afghanistan,2018,Sharjah,212,19,11,night,0,1,1,0,0,16000,100.9477778
+1,644,Afghanistan,Zimbabwe,Afghanistan,2018,Sharjah,278,24,12,night,0,1,0,1,1,16000,108.7927778
+2,681,Zimbabwe,Pakistan,Pakistan,2018,Harare,276,13,13,day,0,1,1,0,0,10000,106.1817647
+3,683,Zimbabwe,Australia,Australia,2018,Harare,339,31,17,day,0,1,1,0,0,10000,102.026
+4,685,Zimbabwe,Pakistan,Pakistan,2018,Harare,315,26,9,day,0,1,0,1,1,10000,125.2436364
+5,687,Zimbabwe,Australia,Australia,2018,Harare,284,18,11,day,0,1,1,0,1,10000,120.1388235
+6,698,South Africa,Zimbabwe,South Africa,2018,East London,266,20,13,night,1,0,1,0,1,15000,106.2615789
+7,699,South Africa,Zimbabwe,South Africa,2018,Potchefstroom,253,22,13,night,1,0,0,1,0,20000,125.8006667
+0,592,India,England,England,2017,Kanpur,276,21,8,daynight,1,0,0,1,1,45000,123.145
+1,593,India,England,India,2017,Nagpur,271,14,9,night,1,0,0,1,1,45000,116.7841176
+2,594,India,England,India,2017,Bengaluru,308,22,18,night,1,0,0,1,1,40000,109.8338889
+3,614,England,South Africa,England,2017,Southampton,276,20,11,night,1,0,0,1,0,6500,138.775
+4,615,England,South Africa,South Africa,2017,Taunton,325,34,11,daynight,1,0,1,0,0,6500,144.8255556
+5,616,England,South Africa,England,2017,Cardiff,317,27,14,day,1,0,0,1,1,5500,119.8484211
+6,622,England,West Indies,West Indies,2017,Chester-le-Street,314,27,13,daynight,1,0,1,0,0,5000,109.5436364
+0,596,Australia,Sri Lanka,Sri Lanka,2017,Melbourne,320,29,5,night,1,0,0,1,1,90000,129.972
+1,597,Australia,Sri Lanka,Sri Lanka,2017,Geelong,334,28,12,night,1,0,0,1,1,20000,112.7457143
+2,598,Australia,Sri Lanka,Australia,2017,Adelaide,316,26,13,night,1,0,0,1,1,50000,123.3126316
+3,623,India,Australia,India,2017,Ranchi,163,18,3,night,1,0,1,0,0,20000,110.1307692
+4,624,India,Australia,Australia,2017,Guwahati,228,19,7,night,1,0,0,1,1,40000,119.7246667
+0,589,South Africa,Sri Lanka,South Africa,2017,Centurion,224,20,14,night,1,0,0,1,1,20000,121.7566667
+1,590,South Africa,Sri Lanka,Sri Lanka,2017,Johannesburg,220,16,5,day,1,0,1,0,1,28000,110.012
+2,591,South Africa,Sri Lanka,Sri Lanka,2017,Cape Town,327,29,10,night,1,0,1,0,1,25000,125.6078571
+3,595,New Zealand,South Africa,South Africa,2017,Auckland,278,23,16,night,1,0,1,0,0,41000,132.7057895
+4,614,England,South Africa,England,2017,Southampton,276,20,11,night,1,0,0,1,0,6500,138.775
+5,615,England,South Africa,South Africa,2017,Taunton,325,34,11,daynight,1,0,1,0,0,6500,144.8255556
+6,616,England,South Africa,England,2017,Cardiff,317,27,14,day,1,0,0,1,1,5500,119.8484211
+7,626,South Africa,Bangladesh,South Africa,2017,Bloemfontein,346,30,11,night,1,0,1,0,1,20000,122.0611765
+8,628,South Africa,Bangladesh,South Africa,2017,Potchefstroom,354,32,15,day,1,0,0,1,1,20000,129.9352941
+0,602,West Indies,Pakistan,Pakistan,2017,Bridgetown,215,19,6,day,1,0,0,1,1,28000,111.0073333
+1,603,West Indies,Pakistan,Pakistan,2017,Port of Spain,253,25,6,day,1,0,1,0,0,25000,118.48
+2,604,West Indies,Pakistan,West Indies,2017,Port of Spain,258,19,13,day,1,0,0,1,0,25000,126.1066667
+3,605,West Indies,Pakistan,Pakistan,2017,Port of Spain,244,16,12,day,1,0,0,1,1,25000,106.704
+4,611,West Indies,Afghanistan,West Indies,2017,Basseterre,210,19,9,night,1,0,0,1,0,8000,114.3835294
+5,612,West Indies,Afghanistan,West Indies,2017,Basseterre,185,11,10,night,1,0,1,0,1,8000,129.374375
+6,613,West Indies,Afghanistan,West Indies,2017,Basseterre,282,24,12,night,1,0,0,1,0,8000,116.6030769
+7,617,West Indies,India,West Indies,2017,Kingston,357,32,20,day,1,0,1,0,0,20000,139.4181818
+8,622,England,West Indies,West Indies,2017,Chester-le-Street,314,27,13,daynight,1,0,1,0,0,5000,109.5436364
+9,636,New Zealand,West Indies,New Zealand,2017,Nelson,317,29,11,day,1,0,0,1,1,6000,120.5545
+0,574,New Zealand,Bangladesh,New Zealand,2017,Napier,263,16,11,night,1,0,0,1,0,10500,124.336875
+1,575,New Zealand,Bangladesh,New Zealand,2017,Mount Maunganui,320,23,14,day,1,0,0,1,1,20000,114.3145
+2,576,New Zealand,Bangladesh,New Zealand,2017,Mount Maunganui,341,33,12,day,1,0,0,1,1,20000,128.9835714
+3,595,New Zealand,South Africa,South Africa,2017,Auckland,278,23,16,night,1,0,1,0,0,41000,132.7057895
+4,630,India,New Zealand,India,2017,Delhi,333,29,14,night,1,0,0,1,1,20000,141.1466667
+5,631,India,New Zealand,New Zealand,2017,Rajkot,336,30,14,night,1,0,0,1,0,28000,123.2723077
+6,632,India,New Zealand,India,2017,Thiruvananthapuram,117,7,6,night,1,0,0,1,1,55000,132.426
+7,636,New Zealand,West Indies,New Zealand,2017,Nelson,317,29,11,day,1,0,0,1,1,6000,120.5545
+0,592,India,England,England,2017,Kanpur,276,21,8,daynight,1,0,0,1,1,45000,123.145
+1,593,India,England,India,2017,Nagpur,271,14,9,night,1,0,0,1,1,45000,116.7841176
+2,594,India,England,India,2017,Bengaluru,308,22,18,night,1,0,0,1,1,40000,109.8338889
+3,617,West Indies,India,West Indies,2017,Kingston,357,32,20,day,1,0,1,0,0,20000,139.4181818
+4,618,Sri Lanka,India,India,2017,Colombo (RPS),330,29,10,night,1,0,0,1,1,35000,136.2314286
+5,623,India,Australia,India,2017,Ranchi,163,18,3,night,1,0,1,0,0,20000,110.1307692
+6,624,India,Australia,Australia,2017,Guwahati,228,19,7,night,1,0,0,1,1,40000,119.7246667
+7,630,India,New Zealand,India,2017,Delhi,333,29,14,night,1,0,0,1,1,20000,141.1466667
+8,631,India,New Zealand,New Zealand,2017,Rajkot,336,30,14,night,1,0,0,1,0,28000,123.2723077
+9,632,India,New Zealand,India,2017,Thiruvananthapuram,117,7,6,night,1,0,0,1,1,55000,132.426
+10,633,India,Sri Lanka,India,2017,Cuttack,258,22,6,night,1,0,0,1,1,20000,119.868125
+11,634,India,Sri Lanka,India,2017,Indore,414,32,31,night,1,0,0,1,1,20000,122.1944444
+12,635,India,Sri Lanka,India,2017,Mumbai,258,24,5,night,1,0,1,0,0,32000,133.640625
+0,602,West Indies,Pakistan,Pakistan,2017,Bridgetown,215,19,6,day,1,0,0,1,1,28000,111.0073333
+1,603,West Indies,Pakistan,Pakistan,2017,Port of Spain,253,25,6,day,1,0,1,0,0,25000,118.48
+2,604,West Indies,Pakistan,West Indies,2017,Port of Spain,258,19,13,day,1,0,0,1,0,25000,126.1066667
+3,605,West Indies,Pakistan,Pakistan,2017,Port of Spain,244,16,12,day,1,0,0,1,1,25000,106.704
+4,619,Pakistan,World-XI,Pakistan,2017,Lahore,357,38,13,night,1,0,0,1,1,20000,134.95625
+5,620,Pakistan,World-XI,World-XI,2017,Lahore,336,25,14,night,1,0,1,0,1,20000,124.2841667
+6,621,Pakistan,World-XI,Pakistan,2017,Lahore,326,30,11,night,1,0,0,1,1,20000,118.444375
+7,625,Pakistan,Sri Lanka,Pakistan,2017,Abu Dhabi,194,15,2,night,0,1,1,0,0,20000,119.014375
+8,627,Pakistan,Sri Lanka,Pakistan,2017,Abu Dhabi,235,16,2,night,0,1,1,0,0,20000,124.3433333
+9,629,Pakistan,Sri Lanka,Pakistan,2017,Lahore,315,24,10,night,1,0,0,1,1,20000,125.475
+0,589,South Africa,Sri Lanka,South Africa,2017,Centurion,224,20,14,night,1,0,0,1,1,20000,121.7566667
+1,590,South Africa,Sri Lanka,Sri Lanka,2017,Johannesburg,220,16,5,day,1,0,1,0,1,28000,110.012
+2,591,South Africa,Sri Lanka,Sri Lanka,2017,Cape Town,327,29,10,night,1,0,1,0,1,25000,125.6078571
+3,596,Australia,Sri Lanka,Sri Lanka,2017,Melbourne,320,29,5,night,1,0,0,1,1,90000,129.972
+4,597,Australia,Sri Lanka,Sri Lanka,2017,Geelong,334,28,12,night,1,0,0,1,1,20000,112.7457143
+5,598,Australia,Sri Lanka,Australia,2017,Adelaide,316,26,13,night,1,0,0,1,1,50000,123.3126316
+6,606,Sri Lanka,Bangladesh,Sri Lanka,2017,Colombo (RPS),290,30,4,night,1,0,0,1,0,35000,130.7621429
+7,607,Sri Lanka,Bangladesh,Bangladesh,2017,Colombo (RPS),296,29,7,night,1,0,0,1,0,35000,122.6733333
+8,618,Sri Lanka,India,India,2017,Colombo (RPS),330,29,10,night,1,0,0,1,1,35000,136.2314286
+9,625,Pakistan,Sri Lanka,Pakistan,2017,Abu Dhabi,194,15,2,night,0,1,1,0,0,20000,119.014375
+10,627,Pakistan,Sri Lanka,Pakistan,2017,Abu Dhabi,235,16,2,night,0,1,1,0,0,20000,124.3433333
+11,629,Pakistan,Sri Lanka,Pakistan,2017,Lahore,315,24,10,night,1,0,0,1,1,20000,125.475
+12,633,India,Sri Lanka,India,2017,Cuttack,258,22,6,night,1,0,0,1,1,20000,119.868125
+13,634,India,Sri Lanka,India,2017,Indore,414,32,31,night,1,0,0,1,1,20000,122.1944444
+14,635,India,Sri Lanka,India,2017,Mumbai,258,24,5,night,1,0,1,0,0,32000,133.640625
+0,503,South Africa,England,South Africa,2016,Cape Town,256,21,5,night,1,0,1,0,0,25000,128.0010526
+1,506,South Africa,England,South Africa,2016,Johannesburg,324,25,20,day,1,0,1,0,0,28000,118.5192857
+2,537,England,West Indies,West Indies,2016,Mumbai,337,28,20,night,0,0,0,1,1,32000,127.0792308
+3,540,England,South Africa,England,2016,Mumbai,429,39,22,night,0,0,1,0,0,32000,131.696875
+4,546,Afghanistan,England,England,2016,Delhi,249,22,9,daynight,0,0,0,1,0,20000,123.8495
+5,551,England,Sri Lanka,England,2016,Delhi,313,24,16,night,0,1,0,1,1,20000,113.00375
+6,555,England,New Zealand,England,2016,Delhi,299,33,9,night,0,0,1,0,0,20000,138.0378571
+7,557,England,West Indies,West Indies,2016,Kolkata,302,24,12,night,0,0,0,1,1,66000,122.9415789
+8,561,England,Sri Lanka,England,2016,Southampton,263,14,9,night,1,0,0,1,0,6500,100.06
+9,566,England,Pakistan,Pakistan,2016,Manchester,256,27,6,night,1,0,1,0,1,19000,126.3041667
+0,485,Australia,India,India,2016,Adelaide,319,26,11,night,1,0,1,0,0,50000,119.2075
+1,486,Australia,India,India,2016,Melbourne,324,30,9,night,1,0,1,0,0,90000,121.9942857
+2,489,Australia,India,India,2016,Sydney,381,34,12,night,1,0,1,0,1,44002,128.0991667
+3,519,South Africa,Australia,South Africa,2016,Durban,303,23,13,night,1,0,0,1,0,25000,134.7015
+4,520,South Africa,Australia,Australia,2016,Johannesburg,390,34,20,day,1,0,0,1,1,28000,134.72125
+5,526,South Africa,Australia,Australia,2016,Cape Town,348,29,14,night,1,0,1,0,1,25000,140.1816667
+6,539,Australia,New Zealand,New Zealand,2016,Dharamsala,266,21,9,daynight,0,0,0,1,0,20000,132.884
+7,544,Australia,Bangladesh,Australia,2016,Bengaluru,297,30,10,night,0,0,1,0,0,40000,128.47125
+8,548,Australia,Pakistan,Australia,2016,Mohali,349,36,11,daynight,0,0,1,0,1,20000,129.589375
+9,553,India,Australia,India,2016,Mohali,302,30,8,daynight,0,0,0,1,0,20000,142.0278571
+10,565,Sri Lanka,Australia,Australia,2016,Pallekele,413,41,20,night,1,0,1,0,0,35000,112.1886667
+11,567,Sri Lanka,Australia,Australia,2016,Colombo (RPS),246,21,5,night,1,0,1,0,1,35000,115.2752632
+0,503,South Africa,England,South Africa,2016,Cape Town,256,21,5,night,1,0,1,0,0,25000,128.0010526
+1,506,South Africa,England,South Africa,2016,Johannesburg,324,25,20,day,1,0,1,0,0,28000,118.5192857
+2,519,South Africa,Australia,South Africa,2016,Durban,303,23,13,night,1,0,0,1,0,25000,134.7015
+3,520,South Africa,Australia,Australia,2016,Johannesburg,390,34,20,day,1,0,0,1,1,28000,134.72125
+4,526,South Africa,Australia,Australia,2016,Cape Town,348,29,14,night,1,0,1,0,1,25000,140.1816667
+5,540,England,South Africa,England,2016,Mumbai,429,39,22,night,0,0,1,0,0,32000,131.696875
+6,542,Afghanistan,South Africa,South Africa,2016,Mumbai,368,36,19,daynight,0,0,0,1,0,32000,137.4316667
+7,549,South Africa,West Indies,West Indies,2016,Nagpur,229,18,5,night,0,0,0,1,1,45000,125.6438889
+8,554,South Africa,Sri Lanka,South Africa,2016,Delhi,226,20,6,night,0,1,1,0,0,20000,108.3786667
+0,537,England,West Indies,West Indies,2016,Mumbai,337,28,20,night,0,0,0,1,1,32000,127.0792308
+1,543,Sri Lanka,West Indies,West Indies,2016,Bengaluru,231,19,9,night,1,0,0,1,1,40000,102.495625
+2,549,South Africa,West Indies,West Indies,2016,Nagpur,229,18,5,night,0,0,0,1,1,45000,125.6438889
+3,552,Afghanistan,West Indies,Afghanistan,2016,Nagpur,232,13,9,night,0,0,0,1,1,45000,121.9578947
+4,556,India,West Indies,West Indies,2016,Mumbai,377,37,15,night,0,0,0,1,1,32000,137.4322222
+5,557,England,West Indies,West Indies,2016,Kolkata,302,24,12,night,0,0,0,1,1,66000,122.9415789
+6,562,India,West Indies,West Indies,2016,Lauderhill,477,35,32,day,0,1,1,0,0,20000,134.0146154
+7,563,India,West Indies,no result,2016,Lauderhill,148,12,7,day,0,1,1,0,0,20000,122.1015385
+8,568,Pakistan,West Indies,Pakistan,2016,Dubai (DSC),217,22,7,night,0,0,1,0,0,25000,120.5135714
+9,569,Pakistan,West Indies,Pakistan,2016,Dubai (DSC),276,26,5,night,0,0,0,1,1,25000,125.74875
+10,570,Pakistan,West Indies,Pakistan,2016,Abu Dhabi,201,16,2,night,0,0,1,0,0,20000,105.9872727
+0,474,New Zealand,Sri Lanka,New Zealand,2016,Mount Maunganui,348,28,14,day,1,0,0,1,1,20000,116.5794118
+1,476,New Zealand,Sri Lanka,New Zealand,2016,Auckland,282,23,16,day,1,0,1,0,0,41000,104.9461538
+2,478,New Zealand,Pakistan,Pakistan,2016,Auckland,311,25,15,daynight,1,0,1,0,0,41000,114.4538095
+3,480,New Zealand,Pakistan,New Zealand,2016,Hamilton,316,33,12,daynight,1,0,0,1,0,10000,124.0536364
+4,483,New Zealand,Pakistan,New Zealand,2016,Wellington,284,28,9,daynight,1,0,0,1,1,33500,120.1436842
+5,535,India,New Zealand,New Zealand,2016,Nagpur,188,13,4,night,0,0,0,1,0,45000,108.17
+6,539,Australia,New Zealand,New Zealand,2016,Dharamsala,266,21,9,daynight,0,0,0,1,0,20000,132.884
+7,545,New Zealand,Pakistan,New Zealand,2016,Mohali,322,31,7,night,0,0,1,0,1,20000,132.9921429
+8,550,Bangladesh,New Zealand,New Zealand,2016,Kolkata,203,15,6,daynight,0,0,0,1,0,66000,114.8366667
+9,555,England,New Zealand,England,2016,Delhi,299,33,9,night,0,0,1,0,0,20000,138.0378571
+0,485,Australia,India,India,2016,Adelaide,319,26,11,night,1,0,1,0,0,50000,119.2075
+1,486,Australia,India,India,2016,Melbourne,324,30,9,night,1,0,1,0,0,90000,121.9942857
+2,489,Australia,India,India,2016,Sydney,381,34,12,night,1,0,1,0,1,44002,128.0991667
+3,496,India,Sri Lanka,Sri Lanka,2016,Pune,190,15,7,night,1,0,0,1,1,20000,101.3161111
+4,497,India,Sri Lanka,India,2016,Ranchi,310,25,10,night,1,0,0,1,1,20000,105.6778947
+5,499,India,Sri Lanka,India,2016,Visakhapatnam,157,15,4,night,1,0,1,0,0,25000,92.48785714
+6,509,Bangladesh,India,India,2016,Dhaka,270,23,8,night,0,0,1,0,0,25000,116.9105882
+7,512,India,Pakistan,India,2016,Dhaka,139,18,0,night,0,0,1,0,0,25000,109.9083333
+8,515,India,Sri Lanka,India,2016,Dhaka,269,29,6,night,1,0,1,0,0,25000,117.5147059
+9,517,India,U.A.E.,India,2016,Dhaka,154,20,3,night,0,0,0,0,0,25000,98.80857143
+10,521,Bangladesh,India,India,2016,Dhaka,239,27,5,night,0,0,0,1,1,25000,126.8527273
+11,535,India,New Zealand,New Zealand,2016,Nagpur,188,13,4,night,0,0,0,1,0,45000,108.17
+12,541,India,Pakistan,India,2016,Kolkata,219,22,5,night,0,0,1,0,0,66000,129.8884615
+13,547,India,Bangladesh,India,2016,Bengaluru,283,22,11,night,0,0,0,1,1,40000,123.5973684
+14,553,India,Australia,India,2016,Mohali,302,30,8,daynight,0,0,0,1,0,20000,142.0278571
+15,556,India,West Indies,West Indies,2016,Mumbai,377,37,15,night,0,0,0,1,1,32000,137.4322222
+16,558,Zimbabwe,India,Zimbabwe,2016,Harare,316,24,16,day,1,0,0,1,1,10000,110.2905882
+17,559,Zimbabwe,India,India,2016,Harare,189,16,5,day,1,0,1,0,1,10000,92.03769231
+18,560,Zimbabwe,India,India,2016,Harare,257,23,8,day,1,0,1,0,0,10000,131.6893333
+19,562,India,West Indies,West Indies,2016,Lauderhill,477,35,32,day,0,1,1,0,0,20000,134.0146154
+20,563,India,West Indies,no result,2016,Lauderhill,148,12,7,day,0,1,1,0,0,20000,122.1015385
+0,478,New Zealand,Pakistan,Pakistan,2016,Auckland,311,25,15,daynight,1,0,1,0,0,41000,114.4538095
+1,480,New Zealand,Pakistan,New Zealand,2016,Hamilton,316,33,12,daynight,1,0,0,1,0,10000,124.0536364
+2,483,New Zealand,Pakistan,New Zealand,2016,Wellington,284,28,9,daynight,1,0,0,1,1,33500,120.1436842
+3,512,India,Pakistan,India,2016,Dhaka,139,18,0,night,0,0,1,0,0,25000,109.9083333
+4,514,Pakistan,U.A.E.,Pakistan,2016,Dhaka,248,25,12,night,0,0,0,0,0,25000,103.8176923
+5,516,Bangladesh,Pakistan,Bangladesh,2016,Dhaka,252,22,7,night,0,0,0,1,0,25000,122.74
+6,518,Pakistan,Sri Lanka,Pakistan,2016,Dhaka,287,35,5,night,0,1,1,0,0,25000,115.0816667
+7,536,Bangladesh,Pakistan,Pakistan,2016,Kolkata,336,37,12,daynight,0,0,0,1,0,66000,127.6046667
+8,541,India,Pakistan,India,2016,Kolkata,219,22,5,night,0,0,1,0,0,66000,129.8884615
+9,545,New Zealand,Pakistan,New Zealand,2016,Mohali,322,31,7,night,0,0,1,0,1,20000,132.9921429
+10,548,Australia,Pakistan,Australia,2016,Mohali,349,36,11,daynight,0,0,1,0,1,20000,129.589375
+11,566,England,Pakistan,Pakistan,2016,Manchester,256,27,6,night,1,0,1,0,1,19000,126.3041667
+12,568,Pakistan,West Indies,Pakistan,2016,Dubai (DSC),217,22,7,night,0,0,1,0,0,25000,120.5135714
+13,569,Pakistan,West Indies,Pakistan,2016,Dubai (DSC),276,26,5,night,0,0,0,1,1,25000,125.74875
+14,570,Pakistan,West Indies,Pakistan,2016,Abu Dhabi,201,16,2,night,0,0,1,0,0,20000,105.9872727
+0,474,New Zealand,Sri Lanka,New Zealand,2016,Mount Maunganui,348,28,14,day,1,0,0,1,1,20000,116.5794118
+1,476,New Zealand,Sri Lanka,New Zealand,2016,Auckland,282,23,16,day,1,0,1,0,0,41000,104.9461538
+2,496,India,Sri Lanka,Sri Lanka,2016,Pune,190,15,7,night,1,0,0,1,1,20000,101.3161111
+3,497,India,Sri Lanka,India,2016,Ranchi,310,25,10,night,1,0,0,1,1,20000,105.6778947
+4,499,India,Sri Lanka,India,2016,Visakhapatnam,157,15,4,night,1,0,1,0,0,25000,92.48785714
+5,510,Sri Lanka,U.A.E.,Sri Lanka,2016,Dhaka,223,21,3,night,1,0,0,0,0,25000,97.857
+6,513,Bangladesh,Sri Lanka,Bangladesh,2016,Dhaka,264,22,8,night,1,0,1,0,1,25000,112.6233333
+7,515,India,Sri Lanka,India,2016,Dhaka,269,29,6,night,1,0,1,0,0,25000,117.5147059
+8,518,Pakistan,Sri Lanka,Pakistan,2016,Dhaka,287,35,5,night,0,1,1,0,0,25000,115.0816667
+9,538,Afghanistan,Sri Lanka,Sri Lanka,2016,Kolkata,296,26,13,night,0,1,1,0,1,66000,129.878
+10,543,Sri Lanka,West Indies,West Indies,2016,Bengaluru,231,19,9,night,1,0,0,1,1,40000,102.495625
+11,551,England,Sri Lanka,England,2016,Delhi,313,24,16,night,0,1,0,1,1,20000,113.00375
+12,554,South Africa,Sri Lanka,South Africa,2016,Delhi,226,20,6,night,0,1,1,0,0,20000,108.3786667
+13,561,England,Sri Lanka,England,2016,Southampton,263,14,9,night,1,0,0,1,0,6500,100.06
+14,565,Sri Lanka,Australia,Australia,2016,Pallekele,413,41,20,night,1,0,1,0,0,35000,112.1886667
+15,567,Sri Lanka,Australia,Australia,2016,Colombo (RPS),246,21,5,night,1,0,1,0,1,35000,115.2752632
+0,475,Afghanistan,Zimbabwe,Afghanistan,2016,Sharjah,337,24,21,night,0,0,1,0,1,16000,123.1864706
+1,477,Afghanistan,Zimbabwe,Afghanistan,2016,Sharjah,319,21,20,night,0,0,0,1,1,16000,119.355
+2,479,Bangladesh,Zimbabwe,Bangladesh,2016,Khulna,305,29,8,day,1,0,0,1,0,20000,122.03125
+3,481,Bangladesh,Zimbabwe,Bangladesh,2016,Khulna,278,20,12,day,1,0,1,0,1,20000,108.6473333
+4,482,Bangladesh,Zimbabwe,Zimbabwe,2016,Khulna,331,36,10,day,1,0,0,1,0,20000,110.7375
+5,484,Bangladesh,Zimbabwe,Zimbabwe,2016,Khulna,323,27,16,day,1,0,0,1,0,20000,123.0129412
+6,522,Hong Kong,Zimbabwe,Zimbabwe,2016,Nagpur,286,24,10,daynight,0,0,1,0,0,45000,114.9094444
+7,527,Scotland,Zimbabwe,Zimbabwe,2016,Nagpur,264,24,5,daynight,0,0,0,1,0,45000,111.4189474
+8,531,Afghanistan,Zimbabwe,Afghanistan,2016,Nagpur,273,22,9,daynight,0,0,1,0,1,45000,127.5910526
+9,558,Zimbabwe,India,Zimbabwe,2016,Harare,316,24,16,day,1,0,0,1,1,10000,110.2905882
+10,559,Zimbabwe,India,India,2016,Harare,189,16,5,day,1,0,1,0,1,10000,92.03769231
+11,560,Zimbabwe,India,India,2016,Harare,257,23,8,day,1,0,1,0,0,10000,131.6893333
+0,423,England,New Zealand,England,2015,Manchester,314,32,10,daynight,1,0,1,0,1,19000,123.526
+1,453,England,Australia,England,2015,Cardiff,345,28,16,day,1,0,0,1,1,5500,120.8264706
+2,468,England,Pakistan,England,2015,Dubai (DSC),295,27,9,night,0,0,1,0,1,25000,121.8958824
+3,469,England,Pakistan,England,2015,Dubai (DSC),324,21,16,night,0,0,1,0,1,25000,130.8625
+4,473,England,Pakistan,tied,2015,Sharjah,289,22,12,night,0,0,1,0,1,16000,132.7205263
+0,453,England,Australia,England,2015,Cardiff,345,28,16,day,1,0,0,1,1,5500,120.8264706
+0,413,South Africa,West Indies,West Indies,2015,Cape Town,322,29,13,night,1,0,1,0,1,25000,140.2242857
+1,414,South Africa,West Indies,West Indies,2015,Johannesburg,445,44,24,day,1,0,0,1,1,28000,140.035
+2,415,South Africa,West Indies,South Africa,2015,Durban,302,24,12,night,1,0,0,1,1,25000,117.15125
+3,428,Bangladesh,South Africa,South Africa,2015,Dhaka,235,17,5,day,1,0,0,1,0,25000,114.1711765
+4,429,Bangladesh,South Africa,South Africa,2015,Dhaka,286,24,10,day,1,0,0,1,0,25000,116.8447059
+5,451,South Africa,New Zealand,South Africa,2015,Durban,289,34,6,night,1,0,1,0,0,25000,144.899375
+6,452,South Africa,New Zealand,New Zealand,2015,Centurion,312,33,9,day,1,0,0,1,0,20000,123.1721053
+7,456,India,South Africa,South Africa,2015,Dharamsala,379,32,20,night,1,0,0,1,1,20000,113.4816667
+8,457,India,South Africa,South Africa,2015,Cuttack,169,15,2,night,1,0,0,1,1,20000,113.0382353
+0,413,South Africa,West Indies,West Indies,2015,Cape Town,322,29,13,night,1,0,1,0,1,25000,140.2242857
+1,414,South Africa,West Indies,West Indies,2015,Johannesburg,445,44,24,day,1,0,0,1,1,28000,140.035
+2,415,South Africa,West Indies,South Africa,2015,Durban,302,24,12,night,1,0,0,1,1,25000,117.15125
+3,460,Sri Lanka,West Indies,Sri Lanka,2015,Pallekele,382,33,22,night,1,0,0,1,1,35000,128.755625
+4,461,Sri Lanka,West Indies,West Indies,2015,Colombo (RPS),278,18,9,night,1,0,0,1,0,35000,127.8047368
+0,423,England,New Zealand,England,2015,Manchester,314,32,10,daynight,1,0,1,0,1,19000,123.526
+1,450,Zimbabwe,New Zealand,New Zealand,2015,Harare,299,29,8,day,1,0,1,0,0,10000,122.8352941
+2,451,South Africa,New Zealand,South Africa,2015,Durban,289,34,6,night,1,0,1,0,0,25000,144.899375
+3,452,South Africa,New Zealand,New Zealand,2015,Centurion,312,33,9,day,1,0,0,1,0,20000,123.1721053
+0,440,Zimbabwe,India,India,2015,Harare,263,17,9,day,1,0,0,1,0,10000,118.32
+1,442,Zimbabwe,India,Zimbabwe,2015,Harare,262,27,2,day,1,0,1,0,1,10000,106.7245
+2,456,India,South Africa,South Africa,2015,Dharamsala,379,32,20,night,1,0,0,1,1,20000,113.4816667
+3,457,India,South Africa,South Africa,2015,Cuttack,169,15,2,night,1,0,0,1,1,20000,113.0382353
+0,416,Bangladesh,Pakistan,Bangladesh,2015,Dhaka,271,33,5,night,1,0,0,1,0,25000,126.6936364
+1,417,Pakistan,Zimbabwe,Pakistan,2015,Lahore,331,42,8,night,1,0,0,1,0,20000,119.0186667
+2,418,Pakistan,Zimbabwe,Pakistan,2015,Lahore,336,27,12,night,1,0,0,1,0,20000,142.2453333
+3,448,Sri Lanka,Pakistan,Pakistan,2015,Colombo (RPS),306,21,9,night,1,0,0,1,0,35000,122.696875
+4,449,Sri Lanka,Pakistan,Pakistan,2015,Colombo (RPS),330,22,16,night,1,0,1,0,1,35000,131.2836842
+5,454,Zimbabwe,Pakistan,Pakistan,2015,Harare,248,19,4,day,1,0,0,1,0,10000,116.6175
+6,455,Zimbabwe,Pakistan,Pakistan,2015,Harare,251,20,4,day,1,0,0,1,0,10000,113.6347059
+7,468,England,Pakistan,England,2015,Dubai (DSC),295,27,9,night,0,0,1,0,1,25000,121.8958824
+8,469,England,Pakistan,England,2015,Dubai (DSC),324,21,16,night,0,0,1,0,1,25000,130.8625
+9,473,England,Pakistan,tied,2015,Sharjah,289,22,12,night,0,0,1,0,1,16000,132.7205263
+0,448,Sri Lanka,Pakistan,Pakistan,2015,Colombo (RPS),306,21,9,night,1,0,0,1,0,35000,122.696875
+1,449,Sri Lanka,Pakistan,Pakistan,2015,Colombo (RPS),330,22,16,night,1,0,1,0,1,35000,131.2836842
+2,460,Sri Lanka,West Indies,Sri Lanka,2015,Pallekele,382,33,22,night,1,0,0,1,1,35000,128.755625
+3,461,Sri Lanka,West Indies,West Indies,2015,Colombo (RPS),278,18,9,night,1,0,0,1,0,35000,127.8047368
+0,417,Pakistan,Zimbabwe,Pakistan,2015,Lahore,331,42,8,night,1,0,0,1,0,20000,119.0186667
+1,418,Pakistan,Zimbabwe,Pakistan,2015,Lahore,336,27,12,night,1,0,0,1,0,20000,142.2453333
+2,440,Zimbabwe,India,India,2015,Harare,263,17,9,day,1,0,0,1,0,10000,118.32
+3,442,Zimbabwe,India,Zimbabwe,2015,Harare,262,27,2,day,1,0,1,0,1,10000,106.7245
+4,450,Zimbabwe,New Zealand,New Zealand,2015,Harare,299,29,8,day,1,0,1,0,0,10000,122.8352941
+5,454,Zimbabwe,Pakistan,Pakistan,2015,Harare,248,19,4,day,1,0,0,1,0,10000,116.6175
+6,455,Zimbabwe,Pakistan,Pakistan,2015,Harare,251,20,4,day,1,0,0,1,0,10000,113.6347059
+7,458,Zimbabwe,Afghanistan,Afghanistan,2015,Bulawayo,304,24,9,day,1,0,1,0,1,9000,126.6746154
+8,459,Zimbabwe,Afghanistan,Afghanistan,2015,Bulawayo,362,35,10,day,1,0,1,0,1,9000,153.265625
+9,462,Bangladesh,Zimbabwe,Bangladesh,2015,Dhaka,244,22,8,daynight,1,0,1,0,0,25000,106.3473684
+10,463,Bangladesh,Zimbabwe,Zimbabwe,2015,Dhaka,248,17,8,daynight,1,0,1,0,1,25000,99.881
+0,354,Australia,England,Australia,2014,Hobart,390,33,22,night,1,0,1,0,1,15000,130.7194118
+1,355,Australia,England,Australia,2014,Melbourne,252,33,3,night,1,0,0,1,0,90000,129.3607143
+2,356,Australia,England,Australia,2014,Sydney,292,22,16,night,1,0,1,0,1,78000,133.2042105
+3,361,West Indies,England,West Indies,2014,Bridgetown,306,39,7,day,1,0,1,0,1,28000,114.846875
+4,362,West Indies,England,West Indies,2014,Bridgetown,300,19,17,day,1,0,0,1,0,28000,125.3113333
+5,364,West Indies,England,England,2014,Bridgetown,310,33,12,day,1,0,0,1,0,28000,123.9552941
+6,380,England,New Zealand,New Zealand,2014,Chattogram,213,24,7,night,0,0,0,1,1,22000,128.1981818
+7,387,England,Sri Lanka,England,2014,Chattogram,367,37,15,night,0,0,1,0,0,22000,128.0258333
+8,391,England,South Africa,South Africa,2014,Chattogram,360,36,13,night,0,0,1,0,0,22000,129.1033333
+9,394,England,Netherlands,Netherlands,2014,Chattogram,199,15,3,daynight,0,0,1,0,0,22000,120.3938889
+10,401,England,Sri Lanka,Sri Lanka,2014,The Oval,337,40,9,daynight,1,0,1,0,0,23500,123.6188235
+11,405,England,India,England,2014,Birmingham,345,27,17,day,1,0,1,0,1,24803,115.1033333
+0,354,Australia,England,Australia,2014,Hobart,390,33,22,night,1,0,1,0,1,15000,130.7194118
+1,355,Australia,England,Australia,2014,Melbourne,252,33,3,night,1,0,0,1,0,90000,129.3607143
+2,356,Australia,England,Australia,2014,Sydney,292,22,16,night,1,0,1,0,1,78000,133.2042105
+3,363,South Africa,Australia,Australia,2014,Durban,147,12,10,night,1,0,0,1,1,25000,138.032
+4,365,South Africa,Australia,Australia,2014,Centurion,249,18,10,night,1,0,0,1,1,20000,130.1853333
+5,381,Australia,Pakistan,Pakistan,2014,Dhaka,341,35,13,daynight,0,0,1,0,0,25000,114.9711111
+6,388,Australia,West Indies,West Indies,2014,Dhaka,332,33,14,daynight,0,0,1,0,1,25000,123.8275
+7,393,Australia,India,India,2014,Dhaka,224,14,11,night,0,0,1,0,0,25000,114.0255
+8,396,Bangladesh,Australia,Australia,2014,Dhaka,291,28,12,daynight,0,0,1,0,1,25000,129.8663636
+9,406,Australia,Pakistan,Australia,2014,Dubai (DSC),167,13,3,night,0,0,0,1,0,25000,96.82588235
+10,407,Australia,South Africa,South Africa,2014,Adelaide,277,18,8,night,1,0,1,0,1,50000,110.5723077
+11,408,Australia,South Africa,Australia,2014,Melbourne,198,25,1,night,1,0,0,1,0,90000,109.165
+12,409,Australia,South Africa,Australia,2014,Sydney,280,22,8,night,1,0,1,0,0,78000,99.57277778
+0,363,South Africa,Australia,Australia,2014,Durban,147,12,10,night,1,0,0,1,1,25000,138.032
+1,365,South Africa,Australia,Australia,2014,Centurion,249,18,10,night,1,0,0,1,1,20000,130.1853333
+2,379,South Africa,Sri Lanka,Sri Lanka,2014,Chattogram,310,27,10,daynight,0,0,0,1,0,22000,122.7115789
+3,383,New Zealand,South Africa,South Africa,2014,Chattogram,331,32,9,daynight,0,0,1,0,0,22000,118.1629412
+4,386,Netherlands,South Africa,South Africa,2014,Chattogram,270,27,6,daynight,0,0,1,0,0,22000,104.9568182
+5,391,England,South Africa,South Africa,2014,Chattogram,360,36,13,night,0,0,1,0,0,22000,129.1033333
+6,399,India,South Africa,India,2014,Dhaka,331,30,11,night,0,0,0,1,0,25000,126.1758333
+7,407,Australia,South Africa,South Africa,2014,Adelaide,277,18,8,night,1,0,1,0,1,50000,110.5723077
+8,408,Australia,South Africa,Australia,2014,Melbourne,198,25,1,night,1,0,0,1,0,90000,109.165
+9,409,Australia,South Africa,Australia,2014,Sydney,280,22,8,night,1,0,1,0,0,78000,99.57277778
+0,352,New Zealand,West Indies,New Zealand,2014,Auckland,281,19,13,night,1,0,1,0,1,41000,113.3605882
+1,353,New Zealand,West Indies,New Zealand,2014,Wellington,309,27,12,night,1,0,0,1,0,33500,123.3553333
+2,359,West Indies,Ireland,Ireland,2014,Kingston,216,24,4,day,1,0,1,0,1,20000,120.334375
+3,360,West Indies,Ireland,West Indies,2014,Kingston,177,11,2,day,1,0,0,1,1,20000,112.73
+4,361,West Indies,England,West Indies,2014,Bridgetown,306,39,7,day,1,0,1,0,1,28000,114.846875
+5,362,West Indies,England,West Indies,2014,Bridgetown,300,19,17,day,1,0,0,1,0,28000,125.3113333
+6,364,West Indies,England,England,2014,Bridgetown,310,33,12,day,1,0,0,1,0,28000,123.9552941
+7,382,India,West Indies,India,2014,Dhaka,242,20,9,night,0,0,1,0,0,25000,121.9685714
+8,385,Bangladesh,West Indies,West Indies,2014,Dhaka,246,27,6,daynight,0,0,1,0,0,25000,108.0968421
+9,388,Australia,West Indies,West Indies,2014,Dhaka,332,33,14,daynight,0,0,1,0,1,25000,123.8275
+10,397,Pakistan,West Indies,West Indies,2014,Dhaka,237,15,13,night,0,0,0,1,0,25000,111.0305263
+11,398,Sri Lanka,West Indies,Sri Lanka,2014,Dhaka,228,15,9,night,0,0,1,0,1,25000,122.9215385
+12,402,West Indies,New Zealand,New Zealand,2014,Roseau,232,11,13,day,1,0,0,1,1,20000,127.652
+13,403,West Indies,New Zealand,West Indies,2014,Roseau,283,24,10,day,1,0,0,1,1,20000,115.3515789
+14,404,West Indies,Bangladesh,no result,2014,Basseterre,30,2,1,night,1,0,0,1,0,8000,107.045
+0,352,New Zealand,West Indies,New Zealand,2014,Auckland,281,19,13,night,1,0,1,0,1,41000,113.3605882
+1,353,New Zealand,West Indies,New Zealand,2014,Wellington,309,27,12,night,1,0,0,1,0,33500,123.3553333
+2,380,England,New Zealand,New Zealand,2014,Chattogram,213,24,7,night,0,0,0,1,1,22000,128.1981818
+3,383,New Zealand,South Africa,South Africa,2014,Chattogram,331,32,9,daynight,0,0,1,0,0,22000,118.1629412
+4,390,Netherlands,New Zealand,New Zealand,2014,Chattogram,284,27,9,daynight,0,0,0,1,1,22000,119.0866667
+5,395,New Zealand,Sri Lanka,Sri Lanka,2014,Chattogram,171,20,2,night,0,0,1,0,0,22000,110.8204545
+6,402,West Indies,New Zealand,New Zealand,2014,Roseau,232,11,13,day,1,0,0,1,1,20000,127.652
+7,403,West Indies,New Zealand,West Indies,2014,Roseau,283,24,10,day,1,0,0,1,1,20000,115.3515789
+8,411,New Zealand,Pakistan,Pakistan,2014,Dubai (DSC),263,22,8,night,0,0,0,1,1,25000,101.4107143
+9,412,New Zealand,Pakistan,New Zealand,2014,Dubai (DSC),250,19,7,night,0,0,0,1,1,25000,93.56857143
+0,378,India,Pakistan,India,2014,Dhaka,251,25,6,night,0,0,1,0,0,25000,113.9507692
+1,382,India,West Indies,India,2014,Dhaka,242,20,9,night,0,0,1,0,0,25000,121.9685714
+2,389,Bangladesh,India,India,2014,Dhaka,266,25,8,night,0,0,0,1,1,25000,113.4784615
+3,393,Australia,India,India,2014,Dhaka,224,14,11,night,0,0,1,0,0,25000,114.0255
+4,399,India,South Africa,India,2014,Dhaka,331,30,11,night,0,0,0,1,0,25000,126.1758333
+5,400,India,Sri Lanka,Sri Lanka,2014,Dhaka,253,24,8,night,0,0,0,1,1,25000,122.1918182
+6,405,England,India,England,2014,Birmingham,345,27,17,day,1,0,1,0,1,24803,115.1033333
+0,378,India,Pakistan,India,2014,Dhaka,251,25,6,night,0,0,1,0,0,25000,113.9507692
+1,381,Australia,Pakistan,Pakistan,2014,Dhaka,341,35,13,daynight,0,0,1,0,0,25000,114.9711111
+2,392,Bangladesh,Pakistan,Pakistan,2014,Dhaka,312,27,11,daynight,0,0,0,1,0,25000,111.693125
+3,397,Pakistan,West Indies,West Indies,2014,Dhaka,237,15,13,night,0,0,0,1,0,25000,111.0305263
+4,406,Australia,Pakistan,Australia,2014,Dubai (DSC),167,13,3,night,0,0,0,1,0,25000,96.82588235
+5,411,New Zealand,Pakistan,Pakistan,2014,Dubai (DSC),263,22,8,night,0,0,0,1,1,25000,101.4107143
+6,412,New Zealand,Pakistan,New Zealand,2014,Dubai (DSC),250,19,7,night,0,0,0,1,1,25000,93.56857143
+0,357,Bangladesh,Sri Lanka,Sri Lanka,2014,Chattogram,317,31,6,daynight,1,0,1,0,0,22000,106.7117647
+1,358,Bangladesh,Sri Lanka,Sri Lanka,2014,Chattogram,232,21,4,daynight,1,0,1,0,1,22000,106.759
+2,379,South Africa,Sri Lanka,Sri Lanka,2014,Chattogram,310,27,10,daynight,0,0,0,1,0,22000,122.7115789
+3,384,Netherlands,Sri Lanka,Sri Lanka,2014,Chattogram,70,8,1,night,0,0,0,1,1,22000,97.19285714
+4,387,England,Sri Lanka,England,2014,Chattogram,367,37,15,night,0,0,1,0,0,22000,128.0258333
+5,395,New Zealand,Sri Lanka,Sri Lanka,2014,Chattogram,171,20,2,night,0,0,1,0,0,22000,110.8204545
+6,398,Sri Lanka,West Indies,Sri Lanka,2014,Dhaka,228,15,9,night,0,0,1,0,1,25000,122.9215385
+7,400,India,Sri Lanka,Sri Lanka,2014,Dhaka,253,24,8,night,0,0,0,1,1,25000,122.1918182
+8,401,England,Sri Lanka,Sri Lanka,2014,The Oval,337,40,9,daynight,1,0,1,0,0,23500,123.6188235
+0,368,Ireland,Zimbabwe,Ireland,2014,Sylhet,313,30,9,daynight,0,0,1,0,0,13533,117.9575
+1,372,Netherlands,Zimbabwe,Zimbabwe,2014,Sylhet,269,24,4,daynight,0,0,1,0,1,13533,122.79
+2,376,U.A.E.,Zimbabwe,Zimbabwe,2014,Sylhet,228,23,7,day,0,0,0,1,1,13533,106.2688889
+0,301,New Zealand,England,England,2013,Auckland,365,27,23,night,1,0,1,0,0,41000,134.3535
+1,302,New Zealand,England,New Zealand,2013,Hamilton,313,33,12,night,1,0,0,1,1,10000,128.5668421
+2,304,New Zealand,England,England,2013,Wellington,267,20,12,night,1,0,0,1,1,33500,131.9809091
+3,317,England,New Zealand,New Zealand,2013,The Oval,367,33,15,night,1,0,1,0,0,23500,145.8730769
+4,318,England,New Zealand,no result,2013,The Oval,2,0,0,night,1,0,0,1,1,23500,157.3666667
+5,328,England,Australia,Australia,2013,Southampton,444,43,23,night,1,0,1,0,0,6500,153.384375
+6,329,England,Australia,England,2013,Chester-le-Street,345,31,14,day,1,0,0,1,1,5000,144.8927778
+0,299,Australia,Sri Lanka,Sri Lanka,2013,Sydney,269,13,9,night,1,0,1,0,1,78000,129.2208333
+1,300,Australia,Sri Lanka,Sri Lanka,2013,Melbourne,261,25,6,night,1,0,1,0,0,90000,138.3981818
+2,303,Australia,West Indies,West Indies,2013,Brisbane,343,22,13,night,1,0,0,1,0,37000,132.5694444
+3,328,England,Australia,Australia,2013,Southampton,444,43,23,night,1,0,1,0,0,6500,153.384375
+4,329,England,Australia,England,2013,Chester-le-Street,345,31,14,day,1,0,0,1,1,5000,144.8927778
+5,331,India,Australia,India,2013,Rajkot,384,43,15,night,1,0,1,0,0,28000,157.4766667
+0,306,South Africa,Pakistan,Pakistan,2013,Centurion,279,29,11,day,1,0,0,1,0,20000,89.6325
+1,323,Sri Lanka,South Africa,South Africa,2013,Colombo (RPS),204,20,2,night,1,0,0,1,0,35000,106.4063158
+2,324,Sri Lanka,South Africa,South Africa,2013,Hambantota,256,20,4,night,1,0,0,1,0,35000,112.1952941
+3,325,Sri Lanka,South Africa,Sri Lanka,2013,Hambantota,314,38,8,night,1,0,0,1,0,35000,117.6345455
+4,334,Pakistan,South Africa,South Africa,2013,Dubai (DSC),190,16,4,night,0,0,1,0,1,25000,110.1392308
+5,336,Pakistan,South Africa,South Africa,2013,Dubai (DSC),277,22,7,night,0,0,0,1,0,25000,107.9029412
+6,340,South Africa,Pakistan,South Africa,2013,Johannesburg,191,27,1,night,1,0,0,1,1,28000,113.3638462
+7,343,South Africa,Pakistan,Pakistan,2013,Cape Town,330,30,11,night,1,0,0,1,0,25000,124.5141667
+0,303,Australia,West Indies,West Indies,2013,Brisbane,343,22,13,night,1,0,0,1,0,37000,132.5694444
+1,305,West Indies,Zimbabwe,West Indies,2013,North Sound,249,24,10,day,1,0,0,1,0,10000,105.6278571
+2,308,West Indies,Zimbabwe,West Indies,2013,North Sound,256,20,7,day,1,0,1,0,1,10000,116.5105882
+3,321,West Indies,Pakistan,Pakistan,2013,Kingstown,288,31,11,day,1,0,1,0,1,20000,119.51
+4,322,West Indies,Pakistan,Pakistan,2013,Kingstown,246,19,9,day,1,0,0,1,0,20000,120.4165
+0,301,New Zealand,England,England,2013,Auckland,365,27,23,night,1,0,1,0,0,41000,134.3535
+1,302,New Zealand,England,New Zealand,2013,Hamilton,313,33,12,night,1,0,0,1,1,10000,128.5668421
+2,304,New Zealand,England,England,2013,Wellington,267,20,12,night,1,0,0,1,1,33500,131.9809091
+3,317,England,New Zealand,New Zealand,2013,The Oval,367,33,15,night,1,0,1,0,0,23500,145.8730769
+4,318,England,New Zealand,no result,2013,The Oval,2,0,0,night,1,0,0,1,1,23500,157.3666667
+5,333,Bangladesh,New Zealand,New Zealand,2013,Dhaka,380,36,17,day,1,0,0,1,0,25000,141.5261111
+6,341,Sri Lanka,New Zealand,Sri Lanka,2013,Pallekele,279,28,4,night,1,0,1,0,0,35000,124.0561538
+0,331,India,Australia,India,2013,Rajkot,384,43,15,night,1,0,1,0,0,28000,157.4766667
+0,306,South Africa,Pakistan,Pakistan,2013,Centurion,279,29,11,day,1,0,0,1,0,20000,89.6325
+1,321,West Indies,Pakistan,Pakistan,2013,Kingstown,288,31,11,day,1,0,1,0,1,20000,119.51
+2,322,West Indies,Pakistan,Pakistan,2013,Kingstown,246,19,9,day,1,0,0,1,0,20000,120.4165
+3,326,Zimbabwe,Pakistan,Pakistan,2013,Harare,268,23,5,day,1,0,1,0,0,10000,121.0392857
+4,327,Zimbabwe,Pakistan,Pakistan,2013,Harare,322,25,14,day,1,0,1,0,0,10000,112.2090909
+5,334,Pakistan,South Africa,South Africa,2013,Dubai (DSC),190,16,4,night,0,0,1,0,1,25000,110.1392308
+6,336,Pakistan,South Africa,South Africa,2013,Dubai (DSC),277,22,7,night,0,0,0,1,0,25000,107.9029412
+7,340,South Africa,Pakistan,South Africa,2013,Johannesburg,191,27,1,night,1,0,0,1,1,28000,113.3638462
+8,343,South Africa,Pakistan,Pakistan,2013,Cape Town,330,30,11,night,1,0,0,1,0,25000,124.5141667
+9,349,Afghanistan,Pakistan,Pakistan,2013,Sharjah,251,18,10,night,0,0,1,0,1,16000,125.539375
+10,350,Pakistan,Sri Lanka,Pakistan,2013,Dubai (DSC),285,22,8,night,0,0,1,0,0,25000,125.52875
+11,351,Pakistan,Sri Lanka,Sri Lanka,2013,Dubai (DSC),368,36,15,night,0,0,1,0,0,25000,129.8913333
+0,299,Australia,Sri Lanka,Sri Lanka,2013,Sydney,269,13,9,night,1,0,1,0,1,78000,129.2208333
+1,300,Australia,Sri Lanka,Sri Lanka,2013,Melbourne,261,25,6,night,1,0,1,0,0,90000,138.3981818
+2,312,Sri Lanka,Bangladesh,Sri Lanka,2013,Pallekele,345,27,14,day,1,0,0,1,1,35000,126.944375
+3,323,Sri Lanka,South Africa,South Africa,2013,Colombo (RPS),204,20,2,night,1,0,0,1,0,35000,106.4063158
+4,324,Sri Lanka,South Africa,South Africa,2013,Hambantota,256,20,4,night,1,0,0,1,0,35000,112.1952941
+5,325,Sri Lanka,South Africa,Sri Lanka,2013,Hambantota,314,38,8,night,1,0,0,1,0,35000,117.6345455
+6,341,Sri Lanka,New Zealand,Sri Lanka,2013,Pallekele,279,28,4,night,1,0,1,0,0,35000,124.0561538
+7,350,Pakistan,Sri Lanka,Pakistan,2013,Dubai (DSC),285,22,8,night,0,0,1,0,0,25000,125.52875
+8,351,Pakistan,Sri Lanka,Sri Lanka,2013,Dubai (DSC),368,36,15,night,0,0,1,0,0,25000,129.8913333
+0,305,West Indies,Zimbabwe,West Indies,2013,North Sound,249,24,10,day,1,0,0,1,0,10000,105.6278571
+1,308,West Indies,Zimbabwe,West Indies,2013,North Sound,256,20,7,day,1,0,1,0,1,10000,116.5105882
+2,315,Zimbabwe,Bangladesh,Zimbabwe,2013,Bulawayo,313,31,8,day,1,0,1,0,1,9000,119.075625
+3,316,Zimbabwe,Bangladesh,Bangladesh,2013,Bulawayo,276,28,5,day,1,0,0,1,0,9000,109.7575
+4,326,Zimbabwe,Pakistan,Pakistan,2013,Harare,268,23,5,day,1,0,1,0,0,10000,121.0392857
+5,327,Zimbabwe,Pakistan,Pakistan,2013,Harare,322,25,14,day,1,0,1,0,0,10000,112.2090909
+0,13,Australia,England,Australia,2007,Sydney,349,27,15,night,1,0,1,0,1,44002,119.8727778
+1,15,England,West Indies,West Indies,2007,The Oval,369,34,14,day,1,0,0,1,0,23500,118.0931579
+2,16,England,West Indies,England,2007,The Oval,314,33,6,day,1,0,0,1,0,23500,121.471875
+3,25,England,Zimbabwe,England,2007,Cape Town,317,24,12,day,0,1,1,0,1,25000,111.8285
+4,28,Australia,England,Australia,2007,Cape Town,266,29,7,day,1,0,0,1,0,25000,125.3633333
+5,34,South Africa,England,South Africa,2007,Cape Town,273,25,8,night,0,0,0,1,1,25000,115.3422222
+6,36,England,New Zealand,New Zealand,2007,Durban,315,20,14,day,0,1,1,0,0,25000,122.2
+7,40,England,India,India,2007,Durban,384,33,17,night,0,0,0,1,0,25000,131.9014286
+0,13,Australia,England,Australia,2007,Sydney,349,27,15,night,1,0,1,0,1,44002,119.8727778
+1,23,Australia,Zimbabwe,Zimbabwe,2007,Cape Town,263,25,5,night,0,1,1,0,1,25000,119.0152941
+2,28,Australia,England,Australia,2007,Cape Town,266,29,7,day,1,0,0,1,0,25000,125.3633333
+3,33,Australia,Bangladesh,Australia,2007,Cape Town,226,19,8,day,0,1,1,0,0,25000,109.3438462
+4,37,Australia,Pakistan,Pakistan,2007,Johannesburg,315,36,6,day,0,1,0,1,1,28000,134.702
+5,41,Australia,Sri Lanka,Australia,2007,Cape Town,186,19,3,day,0,1,1,0,0,25000,110.5638462
+6,45,Australia,India,India,2007,Durban,346,25,20,night,1,0,0,1,0,25000,136.2575
+7,47,India,Australia,India,2007,Mumbai (BS),300,34,7,night,1,0,0,1,0,20000,133.0016667
+8,49,Australia,New Zealand,Australia,2007,Perth,298,29,12,night,1,0,1,0,1,18000,115.8747368
+0,14,South Africa,Pakistan,South Africa,2007,Johannesburg,234,22,9,night,1,0,1,0,0,28000,127.9741667
+1,20,South Africa,West Indies,South Africa,2007,Johannesburg,368,36,18,night,1,0,1,0,0,28000,134.5983333
+2,31,South Africa,Bangladesh,South Africa,2007,Cape Town,274,27,11,night,1,0,1,0,0,25000,106.929375
+3,34,South Africa,England,South Africa,2007,Cape Town,273,25,8,night,0,0,0,1,1,25000,115.3422222
+4,39,South Africa,New Zealand,South Africa,2007,Durban,295,23,13,day,1,0,1,0,0,25000,114.534375
+5,43,South Africa,India,India,2007,Durban,232,25,5,night,0,0,0,1,0,25000,117.6105556
+6,48,South Africa,New Zealand,South Africa,2007,Johannesburg,246,16,9,night,1,0,1,0,0,28000,103.4283333
+7,50,South Africa,West Indies,West Indies,2007,Port Elizabeth,103,9,4,night,1,0,0,1,1,19000,109.0241176
+0,15,England,West Indies,West Indies,2007,The Oval,369,34,14,day,1,0,0,1,0,23500,118.0931579
+1,16,England,West Indies,England,2007,The Oval,314,33,6,day,1,0,0,1,0,23500,121.471875
+2,20,South Africa,West Indies,South Africa,2007,Johannesburg,368,36,18,night,1,0,1,0,0,28000,134.5983333
+3,24,Bangladesh,West Indies,Bangladesh,2007,Johannesburg,306,30,12,day,0,1,1,0,0,28000,127.4046667
+4,50,South Africa,West Indies,West Indies,2007,Port Elizabeth,103,9,4,night,1,0,0,1,1,19000,109.0241176
+0,21,Kenya,New Zealand,New Zealand,2007,Durban,129,12,5,day,1,0,0,1,1,25000,82.46071429
+1,30,New Zealand,Sri Lanka,Sri Lanka,2007,Johannesburg,307,21,13,day,1,0,1,0,1,28000,131.6684615
+2,32,India,New Zealand,New Zealand,2007,Johannesburg,356,40,13,day,0,1,1,0,0,28000,120.5731818
+3,36,England,New Zealand,New Zealand,2007,Durban,315,20,14,day,0,1,1,0,0,25000,122.2
+4,39,South Africa,New Zealand,South Africa,2007,Durban,295,23,13,day,1,0,1,0,0,25000,114.534375
+5,44,New Zealand,Pakistan,Pakistan,2007,Cape Town,280,15,14,day,1,0,1,0,1,25000,124.466875
+6,48,South Africa,New Zealand,South Africa,2007,Johannesburg,246,16,9,night,1,0,1,0,0,28000,103.4283333
+7,49,Australia,New Zealand,Australia,2007,Perth,298,29,12,night,1,0,1,0,1,18000,115.8747368
+0,26,India,Scotland,no result,2007,Durban,0,0,0,night,0,1,0,1,1,25000,100
+1,29,India,Pakistan,tied,2007,Durban,269,28,7,night,0,1,0,1,1,25000,131.0505556
+2,32,India,New Zealand,New Zealand,2007,Johannesburg,356,40,13,day,0,1,1,0,0,28000,120.5731818
+3,40,England,India,India,2007,Durban,384,33,17,night,0,0,0,1,0,25000,131.9014286
+4,43,South Africa,India,India,2007,Durban,232,25,5,night,0,0,0,1,0,25000,117.6105556
+5,45,Australia,India,India,2007,Durban,346,25,20,night,1,0,0,1,0,25000,136.2575
+6,46,India,Pakistan,India,2007,Johannesburg,291,24,12,day,0,1,1,0,1,28000,155.6061111
+7,47,India,Australia,India,2007,Mumbai (BS),300,34,7,night,1,0,0,1,0,20000,133.0016667
+0,14,South Africa,Pakistan,South Africa,2007,Johannesburg,234,22,9,night,1,0,1,0,0,28000,127.9741667
+1,18,Bangladesh,Pakistan,Pakistan,2007,Nairobi (Gym),339,23,18,day,1,0,1,0,0,7000,114.9105556
+2,19,Kenya,Pakistan,Pakistan,2007,Nairobi (Gym),170,10,6,day,1,0,1,0,1,7000,88.67666667
+3,22,Pakistan,Scotland,Pakistan,2007,Durban,272,30,6,day,0,1,0,1,1,25000,93.8052381
+4,29,India,Pakistan,tied,2007,Durban,269,28,7,night,0,1,0,1,1,25000,131.0505556
+5,35,Pakistan,Sri Lanka,Pakistan,2007,Johannesburg,320,21,15,night,0,1,0,1,1,28000,113.9131579
+6,37,Australia,Pakistan,Pakistan,2007,Johannesburg,315,36,6,day,0,1,0,1,1,28000,134.702
+7,42,Bangladesh,Pakistan,Pakistan,2007,Cape Town,262,21,6,day,0,1,0,1,1,25000,111.4342105
+8,44,New Zealand,Pakistan,Pakistan,2007,Cape Town,280,15,14,day,1,0,1,0,1,25000,124.466875
+9,46,India,Pakistan,India,2007,Johannesburg,291,24,12,day,0,1,1,0,1,28000,155.6061111
+0,27,Kenya,Sri Lanka,Sri Lanka,2007,Johannesburg,325,34,12,day,1,0,1,0,0,28000,93.60684211
+1,30,New Zealand,Sri Lanka,Sri Lanka,2007,Johannesburg,307,21,13,day,1,0,1,0,1,28000,131.6684615
+2,35,Pakistan,Sri Lanka,Pakistan,2007,Johannesburg,320,21,15,night,0,1,0,1,1,28000,113.9131579
+3,38,Bangladesh,Sri Lanka,Sri Lanka,2007,Johannesburg,219,17,3,night,0,1,1,0,0,28000,113.2927778
+4,41,Australia,Sri Lanka,Australia,2007,Cape Town,186,19,3,day,0,1,1,0,0,25000,110.5638462
+0,23,Australia,Zimbabwe,Zimbabwe,2007,Cape Town,263,25,5,night,0,1,1,0,1,25000,119.0152941
+1,25,England,Zimbabwe,England,2007,Cape Town,317,24,12,day,0,1,1,0,1,25000,111.8285
+0,53,New Zealand,England,England,2008,Auckland,311,31,12,night,1,0,1,0,0,41000,126.4519048
+1,54,New Zealand,England,England,2008,Christchurch,329,29,15,night,1,0,0,1,0,36500,129.1194737
+2,56,England,New Zealand,England,2008,Manchester,247,29,5,day,1,0,1,0,0,19000,112.6161538
+0,52,Australia,India,Australia,2008,Melbourne,143,6,2,night,1,0,0,1,0,90000,69.00357143
+1,57,West Indies,Australia,West Indies,2008,Bridgetown,179,16,10,day,1,0,1,0,0,28000,114.39
+0,51,South Africa,West Indies,South Africa,2008,Johannesburg,228,18,9,night,1,0,1,0,0,28000,100.4976471
+1,77,South Africa,Bangladesh,South Africa,2008,Johannesburg,199,24,2,night,1,0,0,1,1,28000,106.9778947
+0,51,South Africa,West Indies,South Africa,2008,Johannesburg,228,18,9,night,1,0,1,0,0,28000,100.4976471
+1,57,West Indies,Australia,West Indies,2008,Bridgetown,179,16,10,day,1,0,1,0,0,28000,114.39
+2,78,New Zealand,West Indies,tied,2008,Auckland,297,24,14,daynight,1,0,1,0,1,41000,115.9668421
+3,79,New Zealand,West Indies,New Zealand,2008,Hamilton,320,30,14,daynight,1,0,1,0,1,10000,120.0294737
+0,53,New Zealand,England,England,2008,Auckland,311,31,12,night,1,0,1,0,0,41000,126.4519048
+1,54,New Zealand,England,England,2008,Christchurch,329,29,15,night,1,0,0,1,0,36500,129.1194737
+2,56,England,New Zealand,England,2008,Manchester,247,29,5,day,1,0,1,0,0,19000,112.6161538
+3,78,New Zealand,West Indies,tied,2008,Auckland,297,24,14,daynight,1,0,1,0,1,41000,115.9668421
+4,79,New Zealand,West Indies,New Zealand,2008,Hamilton,320,30,14,daynight,1,0,1,0,1,10000,120.0294737
+0,52,Australia,India,Australia,2008,Melbourne,143,6,2,night,1,0,0,1,0,90000,69.00357143
+0,55,Pakistan,Bangladesh,Pakistan,2008,Karachi,285,19,12,night,1,0,1,0,1,20000,94.215
+1,70,Canada,Pakistan,Pakistan,2008,King City (NW),218,13,10,day,1,0,0,1,0,20000,90.766
+2,72,Pakistan,Sri Lanka,Pakistan,2008,King City (NW),260,22,6,day,0,0,1,0,0,20000,108.978
+3,73,Pakistan,Zimbabwe,Pakistan,2008,King City (NW),182,19,4,day,0,0,0,1,0,20000,87.576
+4,76,Pakistan,Sri Lanka,Sri Lanka,2008,King City (NW),230,19,5,day,0,0,0,1,1,20000,121.6175
+0,69,Sri Lanka,Zimbabwe,Sri Lanka,2008,King City (NW),198,17,5,day,0,0,1,0,0,20000,98.51176471
+1,72,Pakistan,Sri Lanka,Pakistan,2008,King City (NW),260,22,6,day,0,0,1,0,0,20000,108.978
+2,74,Canada,Sri Lanka,Sri Lanka,2008,King City (NW),268,19,11,day,1,0,0,1,0,20000,91.354
+3,76,Pakistan,Sri Lanka,Sri Lanka,2008,King City (NW),230,19,5,day,0,0,0,1,1,20000,121.6175
+0,69,Sri Lanka,Zimbabwe,Sri Lanka,2008,King City (NW),198,17,5,day,0,0,1,0,0,20000,98.51176471
+1,71,Canada,Zimbabwe,tied,2008,King City (NW),244,15,8,day,1,0,0,1,1,20000,95.70368421
+2,73,Pakistan,Zimbabwe,Pakistan,2008,King City (NW),182,19,4,day,0,0,0,1,0,20000,87.576
+3,75,Canada,Zimbabwe,Zimbabwe,2008,King City (NW),244,25,8,day,1,0,1,0,0,20000,86.66222222
+0,86,West Indies,England,West Indies,2009,Port of Spain,214,22,2,day,1,0,1,0,0,25000,105.0782353
+1,90,England,Netherlands,Netherlands,2009,Lord's,299,26,4,daynight,0,0,0,1,1,30000,115.7
+2,95,England,Pakistan,England,2009,The Oval,306,30,7,daynight,0,0,0,1,1,23500,115.41125
+3,103,England,South Africa,South Africa,2009,Nottingham,215,19,4,daynight,0,0,1,0,1,15350,111.389375
+4,109,England,India,England,2009,Lord's,279,22,6,daynight,0,0,0,1,1,30000,121.72125
+5,111,England,West Indies,West Indies,2009,The Oval,232,21,4,daynight,1,0,1,0,1,23500,123.1186667
+6,119,England,Australia,no result,2009,Manchester,137,6,3,day,1,0,1,0,0,19000,117.2522222
+7,124,South Africa,England,England,2009,Johannesburg,315,26,18,night,1,0,1,0,0,28000,130.0861538
+8,125,South Africa,England,South Africa,2009,Centurion,389,32,23,day,1,0,1,0,1,20000,122.2511111
+0,80,Australia,South Africa,Australia,2009,Melbourne,296,23,9,night,1,0,1,0,1,90000,104.6759091
+1,81,Australia,South Africa,Australia,2009,Brisbane,301,24,8,night,1,0,0,1,0,37000,118.3115385
+2,83,Australia,New Zealand,Australia,2009,Sydney,281,24,5,night,1,0,1,0,1,44002,100.8875
+3,87,South Africa,Australia,South Africa,2009,Johannesburg,316,29,11,night,1,0,1,0,0,28000,122.0741176
+4,88,South Africa,Australia,South Africa,2009,Centurion,280,17,14,night,1,0,0,1,1,20000,115.8470588
+5,89,Australia,Pakistan,Pakistan,2009,Dubai (DSC),205,18,3,day,0,0,0,1,1,25000,92.111875
+6,92,Australia,West Indies,West Indies,2009,The Oval,311,27,13,day,0,1,1,0,1,23500,124.3992857
+7,97,Australia,Sri Lanka,Sri Lanka,2009,Nottingham,305,30,11,daynight,1,0,0,1,1,15350,118.6947059
+8,119,England,Australia,no result,2009,Manchester,137,6,3,day,1,0,1,0,0,19000,117.2522222
+0,80,Australia,South Africa,Australia,2009,Melbourne,296,23,9,night,1,0,1,0,1,90000,104.6759091
+1,81,Australia,South Africa,Australia,2009,Brisbane,301,24,8,night,1,0,0,1,0,37000,118.3115385
+2,87,South Africa,Australia,South Africa,2009,Johannesburg,316,29,11,night,1,0,1,0,0,28000,122.0741176
+3,88,South Africa,Australia,South Africa,2009,Centurion,280,17,14,night,1,0,0,1,1,20000,115.8470588
+4,94,Scotland,South Africa,South Africa,2009,The Oval,285,24,12,day,0,0,1,0,0,23500,99.26666667
+5,99,New Zealand,South Africa,South Africa,2009,Lord's,239,20,3,daynight,0,0,1,0,0,30000,124.5293333
+6,103,England,South Africa,South Africa,2009,Nottingham,215,19,4,daynight,0,0,1,0,1,15350,111.389375
+7,106,South Africa,West Indies,South Africa,2009,The Oval,326,43,4,day,0,1,0,1,1,23500,121.361
+8,113,India,South Africa,South Africa,2009,Nottingham,237,21,2,daynight,0,0,0,1,0,15350,125.0570588
+9,114,Pakistan,South Africa,Pakistan,2009,Nottingham,270,27,3,daynight,0,0,1,0,1,15350,127.2107692
+10,124,South Africa,England,England,2009,Johannesburg,315,26,18,night,1,0,1,0,0,28000,130.0861538
+11,125,South Africa,England,South Africa,2009,Centurion,389,32,23,day,1,0,1,0,1,20000,122.2511111
+0,86,West Indies,England,West Indies,2009,Port of Spain,214,22,2,day,1,0,1,0,0,25000,105.0782353
+1,92,Australia,West Indies,West Indies,2009,The Oval,311,27,13,day,0,1,1,0,1,23500,124.3992857
+2,100,Sri Lanka,West Indies,Sri Lanka,2009,Nottingham,337,38,7,day,0,1,0,1,1,15350,120.9392857
+3,105,India,West Indies,West Indies,2009,Lord's,298,31,6,daynight,0,1,1,0,1,30000,128.5364286
+4,106,South Africa,West Indies,South Africa,2009,The Oval,326,43,4,day,0,1,0,1,1,23500,121.361
+5,111,England,West Indies,West Indies,2009,The Oval,232,21,4,daynight,1,0,1,0,1,23500,123.1186667
+6,115,Sri Lanka,West Indies,Sri Lanka,2009,The Oval,242,29,5,daynight,0,1,0,1,1,23500,118.9466667
+7,117,West Indies,Bangladesh,West Indies,2009,Basseterre,213,22,6,day,1,0,0,1,0,8000,98.91333333
+0,83,Australia,New Zealand,Australia,2009,Sydney,281,24,5,night,1,0,1,0,1,44002,100.8875
+1,84,New Zealand,India,New Zealand,2009,Christchurch,314,16,24,night,1,0,1,0,0,36500,134.095
+2,85,New Zealand,India,New Zealand,2009,Wellington,284,26,10,night,1,0,1,0,0,33500,129.7506667
+3,91,New Zealand,Scotland,New Zealand,2009,The Oval,173,20,8,day,0,0,1,0,0,23500,120.696
+4,99,New Zealand,South Africa,South Africa,2009,Lord's,239,20,3,daynight,0,0,1,0,0,30000,124.5293333
+5,102,Ireland,New Zealand,New Zealand,2009,Nottingham,299,25,11,day,0,0,1,0,0,15350,112.43
+6,107,New Zealand,Pakistan,Pakistan,2009,The Oval,191,17,4,daynight,0,0,1,0,1,23500,110.9876471
+7,112,New Zealand,Sri Lanka,Sri Lanka,2009,Nottingham,257,28,3,day,0,0,0,1,0,15350,114.1322222
+8,120,Sri Lanka,New Zealand,New Zealand,2009,Colombo (RPS),268,22,5,night,1,0,0,1,0,35000,114.7266667
+9,121,Sri Lanka,New Zealand,New Zealand,2009,Colombo (RPS),309,25,7,night,1,0,0,1,0,35000,118.3486667
+10,122,New Zealand,Pakistan,Pakistan,2009,Dubai (DSC),261,21,9,night,1,0,1,0,0,25000,117.834
+11,123,New Zealand,Pakistan,Pakistan,2009,Dubai (DSC),279,23,9,night,1,0,0,1,0,25000,115.8176923
+0,82,Sri Lanka,India,India,2009,Colombo (RPS),312,32,11,night,1,0,1,0,1,35000,128.328
+1,84,New Zealand,India,New Zealand,2009,Christchurch,314,16,24,night,1,0,1,0,0,36500,134.095
+2,85,New Zealand,India,New Zealand,2009,Wellington,284,26,10,night,1,0,1,0,0,33500,129.7506667
+3,93,Bangladesh,India,India,2009,Nottingham,324,20,15,night,0,0,0,1,0,15350,122.5282353
+4,101,India,Ireland,India,2009,Nottingham,210,17,3,night,0,0,1,0,0,15350,107.2307143
+5,105,India,West Indies,West Indies,2009,Lord's,298,31,6,daynight,0,1,1,0,1,30000,128.5364286
+6,109,England,India,England,2009,Lord's,279,22,6,daynight,0,0,0,1,1,30000,121.72125
+7,113,India,South Africa,South Africa,2009,Nottingham,237,21,2,daynight,0,0,0,1,0,15350,125.0570588
+8,126,India,Sri Lanka,Sri Lanka,2009,Nagpur,385,47,10,daynight,1,0,1,0,0,45000,145.3523529
+9,127,India,Sri Lanka,India,2009,Mohali,386,35,17,daynight,1,0,0,1,0,20000,148.368
+0,89,Australia,Pakistan,Pakistan,2009,Dubai (DSC),205,18,3,day,0,0,0,1,1,25000,92.111875
+1,95,England,Pakistan,England,2009,The Oval,306,30,7,daynight,0,0,0,1,1,23500,115.41125
+2,98,Netherlands,Pakistan,Pakistan,2009,Lord's,259,16,8,day,0,0,0,1,0,30000,105.0172222
+3,104,Pakistan,Sri Lanka,Sri Lanka,2009,Lord's,258,25,2,day,0,0,0,1,0,30000,118.917
+4,107,New Zealand,Pakistan,Pakistan,2009,The Oval,191,17,4,daynight,0,0,1,0,1,23500,110.9876471
+5,110,Ireland,Pakistan,Pakistan,2009,The Oval,260,19,4,day,0,0,0,1,0,23500,114.3688889
+6,114,Pakistan,South Africa,Pakistan,2009,Nottingham,270,27,3,daynight,0,0,1,0,1,15350,127.2107692
+7,116,Pakistan,Sri Lanka,Pakistan,2009,Lord's,266,22,6,day,0,0,0,1,0,30000,114.2241667
+8,118,Sri Lanka,Pakistan,Pakistan,2009,Colombo (RPS),274,25,7,night,1,0,0,1,0,35000,110.115
+9,122,New Zealand,Pakistan,Pakistan,2009,Dubai (DSC),261,21,9,night,1,0,1,0,0,25000,117.834
+10,123,New Zealand,Pakistan,Pakistan,2009,Dubai (DSC),279,23,9,night,1,0,0,1,0,25000,115.8176923
+0,82,Sri Lanka,India,India,2009,Colombo (RPS),312,32,11,night,1,0,1,0,1,35000,128.328
+1,97,Australia,Sri Lanka,Sri Lanka,2009,Nottingham,305,30,11,daynight,1,0,0,1,1,15350,118.6947059
+2,100,Sri Lanka,West Indies,Sri Lanka,2009,Nottingham,337,38,7,day,0,1,0,1,1,15350,120.9392857
+3,104,Pakistan,Sri Lanka,Sri Lanka,2009,Lord's,258,25,2,day,0,0,0,1,0,30000,118.917
+4,108,Ireland,Sri Lanka,Sri Lanka,2009,Lord's,262,30,3,day,0,0,0,1,0,30000,118.6005
+5,112,New Zealand,Sri Lanka,Sri Lanka,2009,Nottingham,257,28,3,day,0,0,0,1,0,15350,114.1322222
+6,115,Sri Lanka,West Indies,Sri Lanka,2009,The Oval,242,29,5,daynight,0,1,0,1,1,23500,118.9466667
+7,116,Pakistan,Sri Lanka,Pakistan,2009,Lord's,266,22,6,day,0,0,0,1,0,30000,114.2241667
+8,118,Sri Lanka,Pakistan,Pakistan,2009,Colombo (RPS),274,25,7,night,1,0,0,1,0,35000,110.115
+9,120,Sri Lanka,New Zealand,New Zealand,2009,Colombo (RPS),268,22,5,night,1,0,0,1,0,35000,114.7266667
+10,121,Sri Lanka,New Zealand,New Zealand,2009,Colombo (RPS),309,25,7,night,1,0,0,1,0,35000,118.3486667
+11,126,India,Sri Lanka,Sri Lanka,2009,Nagpur,385,47,10,daynight,1,0,1,0,0,45000,145.3523529
+12,127,India,Sri Lanka,India,2009,Mohali,386,35,17,daynight,1,0,0,1,0,20000,148.368
+0,144,England,Pakistan,England,2010,Dubai (DSC),241,21,4,night,0,1,0,1,0,25000,99.79066667
+1,145,England,Pakistan,Pakistan,2010,Dubai (DSC),280,16,11,night,0,1,0,1,1,25000,105.77375
+2,158,West Indies,England,West Indies,2010,Providence,236,13,14,day,0,0,1,0,0,15000,118.1181818
+3,160,England,Ireland,no result,2010,Providence,126,11,1,day,0,0,0,1,1,15000,118.3653846
+4,163,England,Pakistan,England,2010,Bridgetown,282,26,10,day,0,0,1,0,0,28000,126.8335294
+5,168,England,South Africa,England,2010,Bridgetown,265,21,9,day,0,1,1,0,1,28000,113.8375
+6,172,England,New Zealand,England,2010,Gros Islet,288,25,7,day,0,0,0,1,0,12400,116.7094118
+7,175,England,Sri Lanka,England,2010,Gros Islet,245,22,6,day,0,0,0,1,0,12400,110.6369231
+8,177,Australia,England,England,2010,Bridgetown,278,22,8,day,0,0,0,1,1,28000,133.39
+9,186,England,Pakistan,England,2010,Cardiff,251,23,0,day,1,0,1,0,0,5500,113.7892308
+10,187,England,Pakistan,England,2010,Cardiff,164,13,5,night,1,0,0,1,0,5500,113.1829412
+0,134,Australia,Pakistan,Australia,2010,Melbourne,245,16,6,night,1,0,1,0,1,90000,112.0768182
+1,146,Australia,West Indies,Australia,2010,Hobart,311,29,8,night,1,0,1,0,1,15000,111.3084211
+2,147,Australia,West Indies,Australia,2010,Sydney,266,20,14,night,1,0,0,1,0,44002,119.0261538
+3,148,New Zealand,Australia,Australia,2010,Wellington,227,22,5,night,1,0,1,0,1,33500,106.4541176
+4,149,New Zealand,Australia,tied,2010,Christchurch,404,40,21,night,1,0,1,0,1,36500,115.5992308
+5,156,Australia,Pakistan,Australia,2010,Gros Islet,336,25,16,day,0,0,1,0,1,12400,120.4031818
+6,161,Australia,Bangladesh,Australia,2010,Bridgetown,240,12,10,day,0,0,1,0,1,28000,110.327
+7,165,Australia,India,Australia,2010,Bridgetown,308,14,24,day,0,0,0,1,1,28000,123.82
+8,170,Australia,Sri Lanka,Australia,2010,Bridgetown,244,20,9,day,0,0,1,0,1,28000,107.6916667
+9,174,West Indies,Australia,Australia,2010,Gros Islet,194,18,3,daynight,0,0,1,0,1,12400,115.9752941
+10,176,Australia,Pakistan,Australia,2010,Gros Islet,355,24,22,day,0,0,1,0,0,12400,125.54875
+11,177,Australia,England,England,2010,Bridgetown,278,22,8,day,0,0,0,1,1,28000,133.39
+12,184,Australia,Pakistan,Pakistan,2010,Birmingham,286,29,8,day,0,1,0,1,0,24803,115.2735
+13,185,Australia,Pakistan,Pakistan,2010,Birmingham,294,37,5,day,0,1,0,1,0,24803,110.0972727
+14,192,Australia,Sri Lanka,Sri Lanka,2010,Perth,255,28,5,daynight,1,0,1,0,1,18000,129.9121429
+0,155,India,South Africa,India,2010,Gros Islet,349,21,18,day,0,1,0,1,1,12400,120.8807143
+1,162,Afghanistan,South Africa,South Africa,2010,Bridgetown,202,10,12,daynight,0,1,1,0,0,28000,103.1195
+2,164,New Zealand,South Africa,South Africa,2010,Bridgetown,305,18,17,day,0,1,0,1,0,28000,116.1053333
+3,168,England,South Africa,England,2010,Bridgetown,265,21,9,day,0,1,1,0,1,28000,113.8375
+4,171,Pakistan,South Africa,Pakistan,2010,Gros Islet,278,19,9,day,0,1,1,0,1,12400,115.3444444
+5,178,West Indies,South Africa,South Africa,2010,North Sound,234,14,6,day,1,0,1,0,0,10000,107.108
+6,179,West Indies,South Africa,South Africa,2010,North Sound,219,10,8,day,1,0,1,0,0,10000,109.0282353
+7,188,South Africa,Zimbabwe,South Africa,2010,Bloemfontein,323,33,14,night,1,0,0,1,0,20000,131.6372727
+8,189,South Africa,Zimbabwe,South Africa,2010,Kimberley,364,37,14,day,1,0,1,0,1,20000,110.0011765
+9,190,Pakistan,South Africa,South Africa,2010,Abu Dhabi,225,23,6,night,0,0,1,0,1,20000,111.8741176
+10,191,Pakistan,South Africa,South Africa,2010,Abu Dhabi,230,19,6,night,0,0,1,0,1,20000,110.533125
+0,146,Australia,West Indies,Australia,2010,Hobart,311,29,8,night,1,0,1,0,1,15000,111.3084211
+1,147,Australia,West Indies,Australia,2010,Sydney,266,20,14,night,1,0,0,1,0,44002,119.0261538
+2,150,West Indies,Zimbabwe,Zimbabwe,2010,Port of Spain,160,8,4,day,1,0,0,1,0,25000,70.734
+3,152,West Indies,Ireland,West Indies,2010,Providence,183,10,4,daynight,0,0,1,0,1,15000,88.84666667
+4,158,West Indies,England,West Indies,2010,Providence,236,13,14,day,0,0,1,0,0,15000,118.1181818
+5,166,West Indies,Sri Lanka,Sri Lanka,2010,Bridgetown,303,31,8,day,0,0,0,1,0,28000,102.0526667
+6,169,West Indies,India,West Indies,2010,Bridgetown,298,22,16,day,0,0,0,1,1,28000,107.9626316
+7,174,West Indies,Australia,Australia,2010,Gros Islet,194,18,3,daynight,0,0,1,0,1,12400,115.9752941
+8,178,West Indies,South Africa,South Africa,2010,North Sound,234,14,6,day,1,0,1,0,0,10000,107.108
+9,179,West Indies,South Africa,South Africa,2010,North Sound,219,10,8,day,1,0,1,0,0,10000,109.0282353
+0,131,New Zealand,Bangladesh,New Zealand,2010,Hamilton,152,18,4,night,1,0,0,1,0,10000,85.99769231
+1,148,New Zealand,Australia,Australia,2010,Wellington,227,22,5,night,1,0,1,0,1,33500,106.4541176
+2,149,New Zealand,Australia,tied,2010,Christchurch,404,40,21,night,1,0,1,0,1,36500,115.5992308
+3,151,New Zealand,Sri Lanka,New Zealand,2010,Providence,267,16,10,day,0,0,0,1,0,15000,106.0411765
+4,159,New Zealand,Zimbabwe,New Zealand,2010,Providence,103,8,0,day,0,1,1,0,0,15000,93.08428571
+5,164,New Zealand,South Africa,South Africa,2010,Bridgetown,305,18,17,day,0,1,0,1,0,28000,116.1053333
+6,167,New Zealand,Pakistan,New Zealand,2010,Bridgetown,243,20,8,day,0,0,0,1,1,28000,117.3164706
+7,172,England,New Zealand,England,2010,Gros Islet,288,25,7,day,0,0,0,1,0,12400,116.7094118
+8,180,New Zealand,Sri Lanka,New Zealand,2010,Lauderhill,198,13,2,day,0,1,1,0,1,20000,98.427
+9,181,New Zealand,Sri Lanka,Sri Lanka,2010,Lauderhill,157,10,2,day,0,1,1,0,1,20000,97.4725
+10,193,New Zealand,Pakistan,New Zealand,2010,Auckland,274,24,16,day,1,0,1,0,0,41000,110.7188889
+11,194,New Zealand,Pakistan,New Zealand,2010,Hamilton,315,21,18,night,1,0,0,1,1,10000,109.3905263
+12,195,New Zealand,Pakistan,Pakistan,2010,Christchurch,252,31,7,night,1,0,0,1,0,36500,98.81052632
+0,153,Afghanistan,India,India,2010,Gros Islet,217,11,10,day,0,0,0,1,1,12400,103.734
+1,155,India,South Africa,India,2010,Gros Islet,349,21,18,day,0,1,0,1,1,12400,120.8807143
+2,165,Australia,India,Australia,2010,Bridgetown,308,14,24,day,0,0,0,1,1,28000,123.82
+3,169,West Indies,India,West Indies,2010,Bridgetown,298,22,16,day,0,0,0,1,1,28000,107.9626316
+4,173,India,Sri Lanka,Sri Lanka,2010,Gros Islet,320,27,10,day,0,0,1,0,1,12400,116.1384615
+5,182,Zimbabwe,India,India,2010,Harare,213,19,7,day,1,0,0,1,1,10000,100.1611765
+6,183,Zimbabwe,India,India,2010,Harare,266,21,9,day,1,0,0,1,1,10000,115.9983333
+0,134,Australia,Pakistan,Australia,2010,Melbourne,245,16,6,night,1,0,1,0,1,90000,112.0768182
+1,144,England,Pakistan,England,2010,Dubai (DSC),241,21,4,night,0,1,0,1,0,25000,99.79066667
+2,145,England,Pakistan,Pakistan,2010,Dubai (DSC),280,16,11,night,0,1,0,1,1,25000,105.77375
+3,154,Bangladesh,Pakistan,Pakistan,2010,Gros Islet,316,27,8,day,0,0,0,1,0,12400,94.95785714
+4,156,Australia,Pakistan,Australia,2010,Gros Islet,336,25,16,day,0,0,1,0,1,12400,120.4031818
+5,163,England,Pakistan,England,2010,Bridgetown,282,26,10,day,0,0,1,0,0,28000,126.8335294
+6,167,New Zealand,Pakistan,New Zealand,2010,Bridgetown,243,20,8,day,0,0,0,1,1,28000,117.3164706
+7,171,Pakistan,South Africa,Pakistan,2010,Gros Islet,278,19,9,day,0,1,1,0,1,12400,115.3444444
+8,176,Australia,Pakistan,Australia,2010,Gros Islet,355,24,22,day,0,0,1,0,0,12400,125.54875
+9,184,Australia,Pakistan,Pakistan,2010,Birmingham,286,29,8,day,0,1,0,1,0,24803,115.2735
+10,185,Australia,Pakistan,Pakistan,2010,Birmingham,294,37,5,day,0,1,0,1,0,24803,110.0972727
+11,186,England,Pakistan,England,2010,Cardiff,251,23,0,day,1,0,1,0,0,5500,113.7892308
+12,187,England,Pakistan,England,2010,Cardiff,164,13,5,night,1,0,0,1,0,5500,113.1829412
+13,190,Pakistan,South Africa,South Africa,2010,Abu Dhabi,225,23,6,night,0,0,1,0,1,20000,111.8741176
+14,191,Pakistan,South Africa,South Africa,2010,Abu Dhabi,230,19,6,night,0,0,1,0,1,20000,110.533125
+15,193,New Zealand,Pakistan,New Zealand,2010,Auckland,274,24,16,day,1,0,1,0,0,41000,110.7188889
+16,194,New Zealand,Pakistan,New Zealand,2010,Hamilton,315,21,18,night,1,0,0,1,1,10000,109.3905263
+17,195,New Zealand,Pakistan,Pakistan,2010,Christchurch,252,31,7,night,1,0,0,1,0,36500,98.81052632
+0,151,New Zealand,Sri Lanka,New Zealand,2010,Providence,267,16,10,day,0,0,0,1,0,15000,106.0411765
+1,157,Sri Lanka,Zimbabwe,Sri Lanka,2010,Providence,186,11,9,day,0,1,1,0,1,15000,99.73666667
+2,166,West Indies,Sri Lanka,Sri Lanka,2010,Bridgetown,303,31,8,day,0,0,0,1,0,28000,102.0526667
+3,170,Australia,Sri Lanka,Australia,2010,Bridgetown,244,20,9,day,0,0,1,0,1,28000,107.6916667
+4,173,India,Sri Lanka,Sri Lanka,2010,Gros Islet,320,27,10,day,0,0,1,0,1,12400,116.1384615
+5,175,England,Sri Lanka,England,2010,Gros Islet,245,22,6,day,0,0,0,1,0,12400,110.6369231
+6,180,New Zealand,Sri Lanka,New Zealand,2010,Lauderhill,198,13,2,day,0,1,1,0,1,20000,98.427
+7,181,New Zealand,Sri Lanka,Sri Lanka,2010,Lauderhill,157,10,2,day,0,1,1,0,1,20000,97.4725
+8,192,Australia,Sri Lanka,Sri Lanka,2010,Perth,255,28,5,daynight,1,0,1,0,1,18000,129.9121429
+0,150,West Indies,Zimbabwe,Zimbabwe,2010,Port of Spain,160,8,4,day,1,0,0,1,0,25000,70.734
+1,157,Sri Lanka,Zimbabwe,Sri Lanka,2010,Providence,186,11,9,day,0,1,1,0,1,15000,99.73666667
+2,159,New Zealand,Zimbabwe,New Zealand,2010,Providence,103,8,0,day,0,1,1,0,0,15000,93.08428571
+3,182,Zimbabwe,India,India,2010,Harare,213,19,7,day,1,0,0,1,1,10000,100.1611765
+4,183,Zimbabwe,India,India,2010,Harare,266,21,9,day,1,0,0,1,1,10000,115.9983333
+5,188,South Africa,Zimbabwe,South Africa,2010,Bloemfontein,323,33,14,night,1,0,0,1,0,20000,131.6372727
+6,189,South Africa,Zimbabwe,South Africa,2010,Kimberley,364,37,14,day,1,0,1,0,1,20000,110.0011765
+0,197,Australia,England,England,2011,Adelaide,304,31,8,night,1,0,1,0,1,50000,102.7082353
+1,198,Australia,England,Australia,2011,Melbourne,277,16,6,night,1,0,1,0,1,90000,123.0276471
+2,201,England,Sri Lanka,Sri Lanka,2011,Bristol,252,22,6,day,1,0,0,1,1,7000,97.31
+3,204,England,India,England,2011,Manchester,311,33,8,night,1,0,0,1,0,19000,105.3311765
+4,207,England,West Indies,England,2011,The Oval,242,20,8,night,1,0,1,0,0,23500,92.02615385
+5,208,England,West Indies,West Indies,2011,The Oval,194,15,3,night,1,0,1,0,0,23500,96.26
+6,214,India,England,England,2011,Kolkata,231,20,7,night,1,0,1,0,1,66000,95.536875
+0,197,Australia,England,England,2011,Adelaide,304,31,8,night,1,0,1,0,1,50000,102.7082353
+1,198,Australia,England,Australia,2011,Melbourne,277,16,6,night,1,0,1,0,1,90000,123.0276471
+2,202,Sri Lanka,Australia,Sri Lanka,2011,Pallekele,342,36,11,night,1,0,0,1,1,35000,123.9113333
+3,203,Sri Lanka,Australia,Sri Lanka,2011,Pallekele,288,27,10,night,1,0,1,0,1,35000,107.6354545
+4,210,South Africa,Australia,Australia,2011,Cape Town,274,25,8,night,1,0,1,0,1,25000,100.6175
+5,212,South Africa,Australia,South Africa,2011,Johannesburg,280,21,13,day,1,0,0,1,0,28000,111.3694444
+0,196,South Africa,India,India,2011,Durban,301,25,12,day,1,0,0,1,0,20000,114.3433333
+1,210,South Africa,Australia,Australia,2011,Cape Town,274,25,8,night,1,0,1,0,1,25000,100.6175
+2,212,South Africa,Australia,South Africa,2011,Johannesburg,280,21,13,day,1,0,0,1,0,28000,111.3694444
+0,199,West Indies,Pakistan,West Indies,2011,Gros Islet,279,25,7,day,1,0,1,0,1,12400,110.054
+1,200,West Indies,India,India,2011,Port of Spain,282,22,11,day,1,0,1,0,0,25000,116.9226667
+2,207,England,West Indies,England,2011,The Oval,242,20,8,night,1,0,1,0,0,23500,92.02615385
+3,208,England,West Indies,West Indies,2011,The Oval,194,15,3,night,1,0,1,0,0,23500,96.26
+4,209,Bangladesh,West Indies,Bangladesh,2011,Dhaka,251,17,9,daynight,1,0,1,0,0,25000,88.82631579
+0,211,Zimbabwe,New Zealand,New Zealand,2011,Harare,240,17,10,day,1,0,0,1,1,10000,112.7309091
+1,213,Zimbabwe,New Zealand,New Zealand,2011,Harare,319,27,15,day,1,0,1,0,0,10000,109.1826667
+0,196,South Africa,India,India,2011,Durban,301,25,12,day,1,0,0,1,0,20000,114.3433333
+1,200,West Indies,India,India,2011,Port of Spain,282,22,11,day,1,0,1,0,0,25000,116.9226667
+2,204,England,India,England,2011,Manchester,311,33,8,night,1,0,0,1,0,19000,105.3311765
+3,214,India,England,England,2011,Kolkata,231,20,7,night,1,0,1,0,1,66000,95.536875
+0,199,West Indies,Pakistan,West Indies,2011,Gros Islet,279,25,7,day,1,0,1,0,1,12400,110.054
+1,205,Zimbabwe,Pakistan,Pakistan,2011,Harare,279,26,8,day,1,0,1,0,0,10000,98.89176471
+2,206,Zimbabwe,Pakistan,Pakistan,2011,Harare,256,25,4,day,1,0,0,1,0,10000,113.4083333
+3,215,Pakistan,Sri Lanka,Pakistan,2011,Abu Dhabi,262,23,3,night,0,0,0,1,0,20000,92.23166667
+4,216,Bangladesh,Pakistan,Pakistan,2011,Dhaka,195,14,3,daynight,1,0,0,1,0,25000,90.6805
+0,201,England,Sri Lanka,Sri Lanka,2011,Bristol,252,22,6,day,1,0,0,1,1,7000,97.31
+1,202,Sri Lanka,Australia,Sri Lanka,2011,Pallekele,342,36,11,night,1,0,0,1,1,35000,123.9113333
+2,203,Sri Lanka,Australia,Sri Lanka,2011,Pallekele,288,27,10,night,1,0,1,0,1,35000,107.6354545
+3,215,Pakistan,Sri Lanka,Pakistan,2011,Abu Dhabi,262,23,3,night,0,0,0,1,0,20000,92.23166667
+0,205,Zimbabwe,Pakistan,Pakistan,2011,Harare,279,26,8,day,1,0,1,0,0,10000,98.89176471
+1,206,Zimbabwe,Pakistan,Pakistan,2011,Harare,256,25,4,day,1,0,0,1,0,10000,113.4083333
+2,211,Zimbabwe,New Zealand,New Zealand,2011,Harare,240,17,10,day,1,0,0,1,1,10000,112.7309091
+3,213,Zimbabwe,New Zealand,New Zealand,2011,Harare,319,27,15,day,1,0,1,0,0,10000,109.1826667
+0,226,England,Pakistan,Pakistan,2012,Dubai (DSC),259,21,5,night,0,0,1,0,0,25000,111.048
+1,228,England,Pakistan,England,2012,Dubai (DSC),249,23,8,night,0,0,1,0,1,25000,104.748
+2,229,England,Pakistan,England,2012,Abu Dhabi,233,15,4,night,0,0,1,0,1,20000,111.022
+3,246,England,West Indies,England,2012,Nottingham,322,19,15,day,1,0,0,1,0,15350,132.4654545
+4,258,England,South Africa,South Africa,2012,Chester-le-Street,230,26,1,day,1,0,0,1,1,5000,117.8807143
+5,260,England,South Africa,no result,2012,Manchester,96,10,1,night,1,0,1,0,0,19000,131.2827273
+6,262,England,South Africa,England,2012,Birmingham,185,14,8,night,1,0,0,1,1,24803,121.4214286
+7,268,Afghanistan,England,England,2012,Colombo (RPS),258,24,12,night,0,0,1,0,0,35000,104.6944444
+8,272,England,India,India,2012,Colombo (RPS),237,26,4,night,0,0,1,0,0,35000,113.3058824
+9,276,England,West Indies,West Indies,2012,Pallekele,328,31,14,night,0,0,0,1,0,35000,131.4869231
+10,279,England,New Zealand,England,2012,Pallekele,275,21,10,daynight,0,0,0,1,0,35000,124.2071429
+11,284,Sri Lanka,England,Sri Lanka,2012,Pallekele,298,27,11,night,0,0,0,1,1,35000,118.7157895
+12,292,India,England,India,2012,Pune,298,21,13,night,1,0,1,0,0,20000,115.0246667
+13,294,India,England,England,2012,Mumbai,330,32,10,night,1,0,0,1,1,32000,117.6613333
+0,217,Australia,India,Australia,2012,Sydney,298,17,13,night,1,0,0,1,1,78000,113.3828571
+1,218,Australia,India,India,2012,Melbourne,258,24,3,night,1,0,1,0,1,90000,109.5026667
+2,241,West Indies,Australia,Australia,2012,Gros Islet,296,25,13,day,1,0,1,0,1,12400,119.0107692
+3,243,West Indies,Australia,West Indies,2012,Bridgetown,293,23,13,day,1,0,1,0,1,28000,109.9122727
+4,256,Australia,Pakistan,Pakistan,2012,Dubai (DSC),169,14,1,night,0,0,0,1,1,25000,108.105625
+5,257,Australia,Pakistan,tied,2012,Dubai (DSC),298,27,9,night,0,0,0,1,0,25000,113.4373333
+6,259,Australia,Pakistan,Australia,2012,Dubai (DSC),224,11,13,night,0,0,0,1,1,25000,105.945
+7,264,Australia,Ireland,Australia,2012,Colombo (RPS),234,27,4,daynight,0,0,0,1,0,35000,120.3471429
+8,270,Australia,West Indies,Australia,2012,Colombo (RPS),275,23,17,night,0,0,0,1,0,35000,122.45
+9,278,Australia,India,Australia,2012,Colombo (RPS),269,24,12,night,0,0,0,1,0,35000,121.1008333
+10,281,Australia,South Africa,Australia,2012,Colombo (RPS),278,27,7,daynight,0,0,1,0,0,35000,124.1772727
+11,285,Australia,Pakistan,Pakistan,2012,Colombo (RPS),259,19,7,daynight,0,0,1,0,0,35000,110.5329412
+12,288,Australia,West Indies,West Indies,2012,Colombo (RPS),312,25,18,night,0,0,0,1,0,35000,118.255625
+0,221,New Zealand,South Africa,New Zealand,2012,Wellington,281,18,11,night,1,0,1,0,0,33500,128.2557143
+1,222,New Zealand,South Africa,South Africa,2012,Hamilton,326,25,22,night,1,0,0,1,1,10000,120.787
+2,223,New Zealand,South Africa,South Africa,2012,Auckland,306,27,12,night,1,0,1,0,0,41000,127.0466667
+3,242,South Africa,India,South Africa,2012,Johannesburg,283,30,10,daynight,1,0,0,1,1,28000,132.50625
+4,258,England,South Africa,South Africa,2012,Chester-le-Street,230,26,1,day,1,0,0,1,1,5000,117.8807143
+5,260,England,South Africa,no result,2012,Manchester,96,10,1,night,1,0,1,0,0,19000,131.2827273
+6,262,England,South Africa,England,2012,Birmingham,185,14,8,night,1,0,0,1,1,24803,121.4214286
+7,266,South Africa,Zimbabwe,South Africa,2012,Hambantota,167,15,0,night,0,0,1,0,0,35000,105.745
+8,269,Sri Lanka,South Africa,South Africa,2012,Hambantota,118,9,3,daynight,0,0,1,0,0,35000,122.7461538
+9,277,Pakistan,South Africa,Pakistan,2012,Colombo (RPS),253,22,9,daynight,0,0,0,1,0,35000,117.9583333
+10,281,Australia,South Africa,Australia,2012,Colombo (RPS),278,27,7,daynight,0,0,1,0,0,35000,124.1772727
+11,286,India,South Africa,India,2012,Colombo (RPS),288,24,8,night,0,0,0,1,1,35000,128.6605556
+12,293,South Africa,New Zealand,South Africa,2012,Durban,169,27,1,night,1,0,0,1,0,25000,110.49
+13,295,South Africa,New Zealand,New Zealand,2012,East London,312,33,10,night,1,0,0,1,1,15000,131.5145455
+14,297,South Africa,New Zealand,South Africa,2012,Port Elizabeth,311,31,9,day,1,0,1,0,1,19000,120.3972222
+0,241,West Indies,Australia,Australia,2012,Gros Islet,296,25,13,day,1,0,1,0,1,12400,119.0107692
+1,243,West Indies,Australia,West Indies,2012,Bridgetown,293,23,13,day,1,0,1,0,1,28000,109.9122727
+2,246,England,West Indies,England,2012,Nottingham,322,19,15,day,1,0,0,1,0,15350,132.4654545
+3,247,New Zealand,West Indies,West Indies,2012,Lauderhill,328,28,17,day,0,1,1,0,0,20000,117.706
+4,248,New Zealand,West Indies,West Indies,2012,Lauderhill,284,13,18,day,0,1,0,1,0,20000,114.2544444
+5,270,Australia,West Indies,Australia,2012,Colombo (RPS),275,23,17,night,0,0,0,1,0,35000,122.45
+6,273,Ireland,West Indies,no result,2012,Colombo (RPS),124,9,4,night,0,0,0,1,1,35000,117.565
+7,276,England,West Indies,West Indies,2012,Pallekele,328,31,14,night,0,0,0,1,0,35000,131.4869231
+8,280,Sri Lanka,West Indies,Sri Lanka,2012,Pallekele,242,28,6,night,0,0,0,1,0,35000,131.56
+9,283,New Zealand,West Indies,tied,2012,Pallekele,263,20,8,daynight,0,0,1,0,0,35000,116.6273684
+10,288,Australia,West Indies,West Indies,2012,Colombo (RPS),312,25,18,night,0,0,0,1,0,35000,118.255625
+11,289,Sri Lanka,West Indies,West Indies,2012,Colombo (RPS),230,13,8,night,0,0,0,1,0,35000,115.6726316
+12,291,Bangladesh,West Indies,West Indies,2012,Dhaka,363,30,21,night,1,0,0,1,0,25000,139.4222222
+0,219,New Zealand,Zimbabwe,New Zealand,2012,Auckland,307,23,13,night,1,0,0,1,0,41000,104.548
+1,220,New Zealand,Zimbabwe,New Zealand,2012,Hamilton,387,31,21,night,1,0,0,1,0,10000,122.6827273
+2,221,New Zealand,South Africa,New Zealand,2012,Wellington,281,18,11,night,1,0,1,0,0,33500,128.2557143
+3,222,New Zealand,South Africa,South Africa,2012,Hamilton,326,25,22,night,1,0,0,1,1,10000,120.787
+4,223,New Zealand,South Africa,South Africa,2012,Auckland,306,27,12,night,1,0,1,0,0,41000,127.0466667
+5,247,New Zealand,West Indies,West Indies,2012,Lauderhill,328,28,17,day,0,1,1,0,0,20000,117.706
+6,248,New Zealand,West Indies,West Indies,2012,Lauderhill,284,13,18,day,0,1,0,1,0,20000,114.2544444
+7,261,India,New Zealand,New Zealand,2012,Chennai,324,32,8,night,1,0,1,0,0,38000,129.3892308
+8,267,Bangladesh,New Zealand,New Zealand,2012,Pallekele,308,28,12,daynight,0,0,1,0,0,35000,124.9635714
+9,271,New Zealand,Pakistan,Pakistan,2012,Pallekele,325,32,11,daynight,0,0,0,1,0,35000,116.4261111
+10,275,Sri Lanka,New Zealand,tied,2012,Pallekele,336,28,12,daynight,0,0,0,1,0,35000,122.3093333
+11,279,England,New Zealand,England,2012,Pallekele,275,21,10,daynight,0,0,0,1,0,35000,124.2071429
+12,283,New Zealand,West Indies,tied,2012,Pallekele,263,20,8,daynight,0,0,1,0,0,35000,116.6273684
+13,290,Sri Lanka,New Zealand,no result,2012,Pallekele,73,8,1,day,1,0,1,0,0,35000,118.5872727
+14,293,South Africa,New Zealand,South Africa,2012,Durban,169,27,1,night,1,0,0,1,0,25000,110.49
+15,295,South Africa,New Zealand,New Zealand,2012,East London,312,33,10,night,1,0,0,1,1,15000,131.5145455
+16,297,South Africa,New Zealand,South Africa,2012,Port Elizabeth,311,31,9,day,1,0,1,0,1,19000,120.3972222
+0,217,Australia,India,Australia,2012,Sydney,298,17,13,night,1,0,0,1,1,78000,113.3828571
+1,218,Australia,India,India,2012,Melbourne,258,24,3,night,1,0,1,0,1,90000,109.5026667
+2,242,South Africa,India,South Africa,2012,Johannesburg,283,30,10,daynight,1,0,0,1,1,28000,132.50625
+3,255,Sri Lanka,India,India,2012,Pallekele,252,29,3,night,1,0,1,0,0,35000,107.340625
+4,261,India,New Zealand,New Zealand,2012,Chennai,324,32,8,night,1,0,1,0,0,38000,129.3892308
+5,265,Afghanistan,India,India,2012,Colombo (RPS),273,26,8,night,0,0,1,0,0,35000,119.5822222
+6,272,England,India,India,2012,Colombo (RPS),237,26,4,night,0,0,1,0,0,35000,113.3058824
+7,278,Australia,India,Australia,2012,Colombo (RPS),269,24,12,night,0,0,0,1,0,35000,121.1008333
+8,282,India,Pakistan,India,2012,Colombo (RPS),242,24,4,night,0,0,0,1,0,35000,110.4486667
+9,286,India,South Africa,India,2012,Colombo (RPS),288,24,8,night,0,0,0,1,1,35000,128.6605556
+10,292,India,England,India,2012,Pune,298,21,13,night,1,0,1,0,0,20000,115.0246667
+11,294,India,England,England,2012,Mumbai,330,32,10,night,1,0,0,1,1,32000,117.6613333
+12,296,India,Pakistan,Pakistan,2012,Bengaluru,257,19,8,night,1,0,0,1,1,40000,106.6516667
+13,298,India,Pakistan,India,2012,Ahmedabad,361,37,14,daynight,1,0,0,1,1,132000,119.1793333
+0,226,England,Pakistan,Pakistan,2012,Dubai (DSC),259,21,5,night,0,0,1,0,0,25000,111.048
+1,228,England,Pakistan,England,2012,Dubai (DSC),249,23,8,night,0,0,1,0,1,25000,104.748
+2,229,England,Pakistan,England,2012,Abu Dhabi,233,15,4,night,0,0,1,0,1,20000,111.022
+3,244,Sri Lanka,Pakistan,Sri Lanka,2012,Hambantota,200,18,3,night,1,0,1,0,1,35000,94.6315
+4,245,Sri Lanka,Pakistan,Pakistan,2012,Hambantota,205,21,2,night,1,0,0,1,0,35000,91.51789474
+5,256,Australia,Pakistan,Pakistan,2012,Dubai (DSC),169,14,1,night,0,0,0,1,1,25000,108.105625
+6,257,Australia,Pakistan,tied,2012,Dubai (DSC),298,27,9,night,0,0,0,1,0,25000,113.4373333
+7,259,Australia,Pakistan,Australia,2012,Dubai (DSC),224,11,13,night,0,0,0,1,1,25000,105.945
+8,271,New Zealand,Pakistan,Pakistan,2012,Pallekele,325,32,11,daynight,0,0,0,1,0,35000,116.4261111
+9,274,Bangladesh,Pakistan,Pakistan,2012,Pallekele,332,43,8,night,0,0,1,0,1,35000,122.3409091
+10,277,Pakistan,South Africa,Pakistan,2012,Colombo (RPS),253,22,9,daynight,0,0,0,1,0,35000,117.9583333
+11,282,India,Pakistan,India,2012,Colombo (RPS),242,24,4,night,0,0,0,1,0,35000,110.4486667
+12,285,Australia,Pakistan,Pakistan,2012,Colombo (RPS),259,19,7,daynight,0,0,1,0,0,35000,110.5329412
+13,287,Sri Lanka,Pakistan,Sri Lanka,2012,Colombo (RPS),243,28,1,night,0,0,1,0,1,35000,114.4026667
+14,296,India,Pakistan,Pakistan,2012,Bengaluru,257,19,8,night,1,0,0,1,1,40000,106.6516667
+15,298,India,Pakistan,India,2012,Ahmedabad,361,37,14,daynight,1,0,0,1,1,132000,119.1793333
+0,244,Sri Lanka,Pakistan,Sri Lanka,2012,Hambantota,200,18,3,night,1,0,1,0,1,35000,94.6315
+1,245,Sri Lanka,Pakistan,Pakistan,2012,Hambantota,205,21,2,night,1,0,0,1,0,35000,91.51789474
+2,255,Sri Lanka,India,India,2012,Pallekele,252,29,3,night,1,0,1,0,0,35000,107.340625
+3,263,Sri Lanka,Zimbabwe,Sri Lanka,2012,Hambantota,247,22,5,night,0,0,0,1,1,35000,100.8847059
+4,269,Sri Lanka,South Africa,South Africa,2012,Hambantota,118,9,3,daynight,0,0,1,0,0,35000,122.7461538
+5,275,Sri Lanka,New Zealand,tied,2012,Pallekele,336,28,12,daynight,0,0,0,1,0,35000,122.3093333
+6,280,Sri Lanka,West Indies,Sri Lanka,2012,Pallekele,242,28,6,night,0,0,0,1,0,35000,131.56
+7,284,Sri Lanka,England,Sri Lanka,2012,Pallekele,298,27,11,night,0,0,0,1,1,35000,118.7157895
+8,287,Sri Lanka,Pakistan,Sri Lanka,2012,Colombo (RPS),243,28,1,night,0,0,1,0,1,35000,114.4026667
+9,289,Sri Lanka,West Indies,West Indies,2012,Colombo (RPS),230,13,8,night,0,0,0,1,0,35000,115.6726316
+10,290,Sri Lanka,New Zealand,no result,2012,Pallekele,73,8,1,day,1,0,1,0,0,35000,118.5872727
+0,219,New Zealand,Zimbabwe,New Zealand,2012,Auckland,307,23,13,night,1,0,0,1,0,41000,104.548
+1,220,New Zealand,Zimbabwe,New Zealand,2012,Hamilton,387,31,21,night,1,0,0,1,0,10000,122.6827273
+2,263,Sri Lanka,Zimbabwe,Sri Lanka,2012,Hambantota,247,22,5,night,0,0,0,1,1,35000,100.8847059
+3,266,South Africa,Zimbabwe,South Africa,2012,Hambantota,167,15,0,night,0,0,1,0,0,35000,105.745

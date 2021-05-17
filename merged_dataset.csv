@@ -1,0 +1,487 @@
+,Team1,Team2,MatchTime,Ha1,Ha2,T1w,T2w,T1b,Groundcapacity,AvgSR,CRating,Elevel
+0,West Indies,England,daynight,1,0,0,1,1,12400,125.3082353,487,H
+1,West Indies,England,daynight,1,0,1,0,0,8000,115.3088889,487,A
+2,West Indies,England,daynight,1,0,1,0,1,8000,109.9153333,487,H
+3,England,Pakistan,day,1,0,0,1,0,5500,124.6469231,547,L
+4,New Zealand,England,day,1,0,0,1,1,18000,146.2533333,515,A
+5,New Zealand,England,day,1,0,0,1,1,33500,138.7875,515,H
+6,New Zealand,England,day,1,0,1,0,1,6000,145.1994118,515,H
+7,New Zealand,England,night,1,0,1,0,0,10500,141.3675,515,H
+8,New Zealand,England,day,1,0,0,1,1,41000,152.3853333,515,H
+9,India,Australia,night,1,0,0,1,1,25000,123.9527778,521,L
+10,India,Australia,night,1,0,0,1,1,40000,129.0390909,521,H
+11,Australia,Sri Lanka,day,1,0,0,1,1,50000,115.9666667,488,H
+12,Australia,Sri Lanka,night,1,0,0,1,0,37000,121.7271429,488,L
+13,Australia,Sri Lanka,night,1,0,1,0,0,90000,121.0761538,488,L
+14,Australia,Pakistan,day,1,0,1,0,0,44002,126.2111111,547,A
+15,Australia,Pakistan,night,1,0,0,1,0,12000,125.8815385,547,L
+16,Australia,Pakistan,daynight,1,0,1,0,0,20000,112.5541667,547,L
+17,South Africa,Pakistan,night,1,0,0,1,1,25000,127.0915789,548,A
+18,South Africa,Pakistan,day,1,0,0,1,1,28000,123.3471429,548,H
+19,South Africa,Pakistan,night,1,0,1,0,0,20000,100.4281818,548,A
+20,South Africa,Sri Lanka,night,1,0,1,0,0,25000,115.9594737,489,L
+21,South Africa,Sri Lanka,night,1,0,0,1,1,20000,122.37125,489,H
+22,South Africa,Sri Lanka,day,1,0,0,1,1,28000,115.856,489,H
+23,India,South Africa,night,1,0,1,0,0,20000,137.2258333,522,L
+24,India,South Africa,night,1,0,1,0,1,40000,122.9392857,522,A
+28,India,West Indies,day,0,1,1,0,0,20000,108.9247368,486,L
+29,India,West Indies,day,0,1,1,0,1,20000,120.6253846,486,L
+30,West Indies,India,day,1,0,0,1,1,15000,116.3407692,486,A
+31,Afghanistan,West Indies,night,1,0,1,0,0,50000,117.9072222,467,L
+32,Afghanistan,West Indies,night,1,0,1,0,1,50000,118.0005263,467,L
+33,Afghanistan,West Indies,night,1,0,1,0,1,50000,112.2915789,467,L
+34,India,West Indies,night,1,0,1,0,0,20000,131.7169231,486,H
+35,India,West Indies,night,1,0,0,1,1,55000,135.5423077,486,H
+36,India,West Indies,night,1,0,0,1,1,32000,123.8206667,486,H
+37,New Zealand,Sri Lanka,night,1,0,0,1,1,41000,126.4395,481,A
+38,New Zealand,India,night,1,0,0,1,1,33500,124.9015789,514,H
+39,New Zealand,India,night,1,0,1,0,1,41000,141.8342857,514,L
+40,New Zealand,India,night,1,0,0,1,1,10000,134.9107143,514,H
+41,Sri Lanka,New Zealand,night,1,0,1,0,1,35000,132.68,481,L
+42,Sri Lanka,New Zealand,night,1,0,1,0,1,35000,129.5772222,481,L
+43,Sri Lanka,New Zealand,night,1,0,1,0,1,35000,115.9733333,481,L
+59,India,Bangladesh,night,1,0,0,1,1,20000,136.9792308,480,A
+60,India,Bangladesh,night,1,0,1,0,0,28000,126.6358333,480,A
+61,India,Bangladesh,night,1,0,0,1,1,45000,123.2411111,480,A
+69,Pakistan,Sri Lanka,night,1,0,1,0,0,20000,107.6772222,513,L
+70,Pakistan,Sri Lanka,night,1,0,0,1,0,20000,102.71,513,H
+71,Pakistan,Sri Lanka,night,1,0,0,1,0,20000,118.528125,513,L
+88,Australia,England,night,1,0,1,0,0,15000,141.6127778,241,A
+89,Australia,England,night,1,0,1,0,0,90000,140.8669231,241,A
+90,New Zealand,England,night,1,0,0,1,1,33500,132.6505556,231,H
+91,New Zealand,England,night,1,0,1,0,0,10000,152.1286667,231,H
+92,England,Australia,daynight,1,0,0,1,1,24803,124.2133333,241,H
+93,England,India,daynight,1,0,0,1,1,19000,146.3428571,238,H
+94,England,India,daynight,1,0,1,0,0,5500,149.9371429,238,L
+95,England,India,day,1,0,0,1,1,7000,144.782,238,H
+96,Sri Lanka,England,night,1,0,1,0,0,35000,124.5285714,200,H
+97,Australia,New Zealand,night,0,0,1,0,0,44002,132.322,242,L
+100,New Zealand,Australia,night,0,0,1,0,1,41000,138.34,242,H
+101,New Zealand,Australia,night,0,0,1,0,1,41000,134.961875,242,L
+103,Australia,Pakistan,day,1,0,1,0,0,10000,130.8857143,256,A
+104,Australia,Pakistan,day,1,0,1,0,0,10000,122.045,256,A
+105,Australia,Pakistan,day,1,0,1,0,1,10000,139.656875,256,H
+106,Australia,Pakistan,night,0,0,1,0,0,20000,127.572381,256,L
+107,Australia,Pakistan,night,0,0,0,1,0,25000,132.1844444,256,L
+108,Australia,Pakistan,night,0,0,0,1,0,25000,124.4733333,256,L
+109,Australia,South Africa,night,1,0,1,0,0,15500,131.43,240,A
+110,Australia,India,daynight,1,0,0,1,1,37000,160.488,249,A
+111,Australia,India,night,1,0,0,1,1,90000,130.9877778,249,A
+112,Australia,India,night,1,0,1,0,1,44002,135.3178571,249,A
+113,South Africa,India,day,1,0,1,0,0,28000,120.8211111,237,H
+114,South Africa,India,night,1,0,1,0,0,20000,136.3366667,237,H
+115,South Africa,India,night,1,0,1,0,0,25000,147.223125,237,L
+116,Sri Lanka,South Africa,night,1,0,0,1,0,35000,95.9345,199,H
+118,New Zealand,West Indies,night,1,0,0,1,1,20000,127.7916667,230,H
+119,New Zealand,West Indies,night,1,0,1,0,1,20000,125.27,230,H
+120,Pakistan,West Indies,day,1,0,0,1,1,20000,113.2055556,244,H
+121,Pakistan,West Indies,day,1,0,1,0,1,20000,112.383125,244,H
+122,Pakistan,West Indies,day,1,0,0,1,0,20000,116.2191667,244,H
+123,West Indies,Bangladesh,night,1,0,1,0,0,8000,120.8425,189,H
+124,Bangladesh,West Indies,night,0,1,0,1,1,20000,120.7355556,189,H
+125,Bangladesh,West Indies,night,0,1,1,0,1,20000,122.3746667,189,A
+126,India,West Indies,night,1,0,1,0,0,66000,126.2523529,237,L
+127,India,West Indies,night,1,0,0,1,1,50000,122.8386667,237,A
+128,India,West Indies,night,1,0,0,1,0,38000,137.9063636,237,H
+129,Bangladesh,West Indies,day,1,0,1,0,1,13533,128.472,189,H
+130,Bangladesh,West Indies,daynight,1,0,0,1,1,25000,126.1417647,189,H
+131,Bangladesh,West Indies,daynight,1,0,1,0,0,25000,116.3754545,189,H
+134,New Zealand,Pakistan,daynight,1,0,1,0,0,33500,123.268125,246,L
+135,New Zealand,Pakistan,night,1,0,0,1,0,41000,126.3264706,246,H
+136,New Zealand,Pakistan,night,1,0,0,1,0,20000,134.8475,246,A
+142,New Zealand,Pakistan,night,0,0,0,1,0,20000,134.20125,246,L
+143,New Zealand,Pakistan,night,0,0,1,0,1,25000,135.3986667,246,L
+144,New Zealand,Pakistan,night,0,0,0,1,0,25000,121.485625,246,L
+148,Sri Lanka,India,night,0,0,1,0,0,35000,141.5184615,208,A
+149,Bangladesh,India,night,0,0,0,1,1,35000,118.95875,198,L
+150,Sri Lanka,India,night,0,0,0,1,1,35000,122.6441176,208,L
+151,Bangladesh,India,night,0,0,1,0,0,35000,134.6741667,198,H
+152,Bangladesh,India,night,0,0,0,1,1,35000,120.3944444,198,A
+177,Bangladesh,Sri Lanka,night,1,0,1,0,1,25000,119.0223077,160,H
+178,Bangladesh,Sri Lanka,night,1,0,1,0,0,13533,118.6388235,160,H
+180,Sri Lanka,Bangladesh,night,0,0,0,1,1,35000,130.9093333,160,H
+182,Sri Lanka,Bangladesh,night,0,0,0,1,1,35000,117.42,160,L
+185,India,England,daynight,1,0,0,1,1,45000,123.145,239,L
+186,India,England,night,1,0,0,1,1,45000,116.7841176,239,L
+187,India,England,night,1,0,0,1,1,40000,109.8338889,239,H
+188,England,South Africa,night,1,0,0,1,0,6500,138.775,232,L
+189,England,South Africa,daynight,1,0,1,0,0,6500,144.8255556,232,H
+190,England,South Africa,day,1,0,0,1,1,5500,119.8484211,232,H
+191,England,West Indies,daynight,1,0,1,0,0,5000,109.5436364,230,A
+192,Australia,Sri Lanka,night,1,0,0,1,1,90000,129.972,205,L
+193,Australia,Sri Lanka,night,1,0,0,1,1,20000,112.7457143,205,A
+194,Australia,Sri Lanka,night,1,0,0,1,1,50000,123.3126316,205,A
+195,India,Australia,night,1,0,1,0,0,20000,110.1307692,228,A
+196,India,Australia,night,1,0,0,1,1,40000,119.7246667,228,L
+197,South Africa,Sri Lanka,night,1,0,0,1,1,20000,121.7566667,206,H
+198,South Africa,Sri Lanka,day,1,0,1,0,1,28000,110.012,206,L
+199,South Africa,Sri Lanka,night,1,0,1,0,1,25000,125.6078571,206,L
+200,New Zealand,South Africa,night,1,0,1,0,0,41000,132.7057895,236,H
+204,South Africa,Bangladesh,night,1,0,1,0,1,20000,122.0611765,189,L
+205,South Africa,Bangladesh,day,1,0,0,1,1,20000,129.9352941,189,H
+206,West Indies,Pakistan,day,1,0,0,1,1,28000,111.0073333,230,L
+207,West Indies,Pakistan,day,1,0,1,0,0,25000,118.48,230,L
+208,West Indies,Pakistan,day,1,0,0,1,0,25000,126.1066667,230,A
+209,West Indies,Pakistan,day,1,0,0,1,1,25000,106.704,230,A
+210,West Indies,Afghanistan,night,1,0,0,1,0,8000,114.3835294,199,H
+211,West Indies,Afghanistan,night,1,0,1,0,1,8000,129.374375,199,A
+212,West Indies,Afghanistan,night,1,0,0,1,0,8000,116.6030769,199,A
+213,West Indies,India,day,1,0,1,0,0,20000,139.4181818,227,H
+215,New Zealand,West Indies,day,1,0,0,1,1,6000,120.5545,234,A
+216,New Zealand,Bangladesh,night,1,0,0,1,0,10500,124.336875,203,L
+217,New Zealand,Bangladesh,day,1,0,0,1,1,20000,114.3145,203,A
+218,New Zealand,Bangladesh,day,1,0,0,1,1,20000,128.9835714,203,A
+220,India,New Zealand,night,1,0,0,1,1,20000,141.1466667,243,H
+221,India,New Zealand,night,1,0,0,1,0,28000,123.2723077,243,H
+222,India,New Zealand,night,1,0,0,1,1,55000,132.426,243,L
+228,Sri Lanka,India,night,1,0,0,1,1,35000,136.2314286,213,L
+234,India,Sri Lanka,night,1,0,0,1,1,20000,119.868125,213,L
+235,India,Sri Lanka,night,1,0,0,1,1,20000,122.1944444,213,H
+236,India,Sri Lanka,night,1,0,1,0,0,32000,133.640625,213,L
+241,Pakistan,Sri Lanka,night,0,1,1,0,0,20000,119.014375,216,L
+242,Pakistan,Sri Lanka,night,0,1,1,0,0,20000,124.3433333,216,L
+243,Pakistan,Sri Lanka,night,1,0,0,1,1,20000,125.475,216,L
+250,Sri Lanka,Bangladesh,night,1,0,0,1,0,35000,130.7621429,173,L
+251,Sri Lanka,Bangladesh,night,1,0,0,1,0,35000,122.6733333,173,L
+259,South Africa,England,night,1,0,1,0,0,25000,128.0010526,233,L
+260,South Africa,England,day,1,0,1,0,0,28000,118.5192857,233,H
+261,England,West Indies,night,0,0,0,1,1,32000,127.0792308,236,H
+262,England,South Africa,night,0,0,1,0,0,32000,131.696875,233,H
+263,Afghanistan,England,daynight,0,0,0,1,0,20000,123.8495,192,A
+264,England,Sri Lanka,night,0,1,0,1,1,20000,113.00375,212,H
+265,England,New Zealand,night,0,0,1,0,0,20000,138.0378571,246,H
+266,England,West Indies,night,0,0,0,1,1,66000,122.9415789,236,A
+267,England,Sri Lanka,night,1,0,0,1,0,6500,100.06,212,L
+268,England,Pakistan,night,1,0,1,0,1,19000,126.3041667,218,A
+269,Australia,India,night,1,0,1,0,0,50000,119.2075,242,L
+270,Australia,India,night,1,0,1,0,0,90000,121.9942857,242,L
+271,Australia,India,night,1,0,1,0,1,44002,128.0991667,242,L
+272,South Africa,Australia,night,1,0,0,1,0,25000,134.7015,229,A
+273,South Africa,Australia,day,1,0,0,1,1,28000,134.72125,229,H
+274,South Africa,Australia,night,1,0,1,0,1,25000,140.1816667,229,A
+275,Australia,New Zealand,daynight,0,0,0,1,0,20000,132.884,242,L
+276,Australia,Bangladesh,night,0,0,1,0,0,40000,128.47125,184,H
+277,Australia,Pakistan,daynight,0,0,1,0,1,20000,129.589375,214,H
+278,India,Australia,daynight,0,0,0,1,0,20000,142.0278571,242,A
+279,Sri Lanka,Australia,night,1,0,1,0,0,35000,112.1886667,208,H
+280,Sri Lanka,Australia,night,1,0,1,0,1,35000,115.2752632,208,L
+287,Afghanistan,South Africa,daynight,0,0,0,1,0,32000,137.4316667,197,H
+288,South Africa,West Indies,night,0,0,0,1,1,45000,125.6438889,241,L
+289,South Africa,Sri Lanka,night,0,1,1,0,0,20000,108.3786667,217,L
+291,Sri Lanka,West Indies,night,1,0,0,1,1,40000,102.495625,220,A
+293,Afghanistan,West Indies,night,0,0,0,1,1,45000,121.9578947,200,L
+294,India,West Indies,night,0,0,0,1,1,32000,137.4322222,254,H
+296,India,West Indies,day,0,1,1,0,0,20000,134.0146154,254,H
+297,India,West Indies,day,0,1,1,0,0,20000,122.1015385,254,H
+298,Pakistan,West Indies,night,0,0,1,0,0,25000,120.5135714,226,A
+299,Pakistan,West Indies,night,0,0,0,1,1,25000,125.74875,226,L
+300,Pakistan,West Indies,night,0,0,1,0,0,20000,105.9872727,226,L
+301,New Zealand,Sri Lanka,day,1,0,0,1,1,20000,116.5794118,230,A
+302,New Zealand,Sri Lanka,day,1,0,1,0,0,41000,104.9461538,230,H
+303,New Zealand,Pakistan,daynight,1,0,1,0,0,41000,114.4538095,236,H
+304,New Zealand,Pakistan,daynight,1,0,0,1,0,10000,124.0536364,236,H
+305,New Zealand,Pakistan,daynight,1,0,0,1,1,33500,120.1436842,236,A
+306,India,New Zealand,night,0,0,0,1,0,45000,108.17,264,L
+308,New Zealand,Pakistan,night,0,0,1,0,1,20000,132.9921429,236,L
+309,Bangladesh,New Zealand,daynight,0,0,0,1,0,66000,114.8366667,206,L
+314,India,Sri Lanka,night,1,0,0,1,1,20000,101.3161111,230,L
+315,India,Sri Lanka,night,1,0,0,1,1,20000,105.6778947,230,L
+316,India,Sri Lanka,night,1,0,1,0,0,25000,92.48785714,230,L
+317,Bangladesh,India,night,0,0,1,0,0,25000,116.9105882,206,L
+318,India,Pakistan,night,0,0,1,0,0,25000,109.9083333,236,L
+319,India,Sri Lanka,night,1,0,1,0,0,25000,117.5147059,230,A
+320,Bangladesh,India,night,0,0,0,1,1,25000,126.8527273,206,A
+322,India,Pakistan,night,0,0,1,0,0,66000,129.8884615,236,L
+323,India,Bangladesh,night,0,0,0,1,1,40000,123.5973684,206,L
+332,Bangladesh,Pakistan,night,0,0,0,1,0,25000,122.74,178,L
+333,Pakistan,Sri Lanka,night,0,1,1,0,0,25000,115.0816667,202,A
+334,Bangladesh,Pakistan,daynight,0,0,0,1,0,66000,127.6046667,178,H
+347,Bangladesh,Sri Lanka,night,1,0,1,0,1,25000,112.6233333,172,L
+350,Afghanistan,Sri Lanka,night,0,1,1,0,1,66000,129.878,176,H
+357,England,New Zealand,daynight,1,0,1,0,1,19000,123.526,210,A
+358,England,Australia,day,1,0,0,1,1,5500,120.8264706,222,H
+359,England,Pakistan,night,0,0,1,0,1,25000,121.8958824,213,L
+360,England,Pakistan,night,0,0,1,0,1,25000,130.8625,213,A
+361,England,Pakistan,night,0,0,1,0,1,16000,132.7205263,213,A
+363,South Africa,West Indies,night,1,0,1,0,1,25000,140.2242857,227,H
+364,South Africa,West Indies,day,1,0,0,1,1,28000,140.035,227,H
+365,South Africa,West Indies,night,1,0,0,1,1,25000,117.15125,227,A
+366,Bangladesh,South Africa,day,1,0,0,1,0,25000,114.1711765,187,L
+367,Bangladesh,South Africa,day,1,0,0,1,0,25000,116.8447059,187,L
+368,South Africa,New Zealand,night,1,0,1,0,0,25000,144.899375,220,A
+369,South Africa,New Zealand,day,1,0,0,1,0,20000,123.1721053,220,A
+370,India,South Africa,night,1,0,0,1,1,20000,113.4816667,234,H
+371,India,South Africa,night,1,0,0,1,1,20000,113.0382353,234,L
+375,Sri Lanka,West Indies,night,1,0,0,1,1,35000,128.755625,252,H
+376,Sri Lanka,West Indies,night,1,0,0,1,0,35000,127.8047368,252,L
+382,Bangladesh,Pakistan,night,1,0,0,1,0,25000,126.6936364,190,A
+383,Sri Lanka,Pakistan,night,1,0,0,1,0,35000,122.696875,248,L
+384,Sri Lanka,Pakistan,night,1,0,1,0,1,35000,131.2836842,248,A
+392,Australia,England,night,1,0,1,0,1,15000,130.7194118,211,H
+393,Australia,England,night,1,0,0,1,0,90000,129.3607143,211,A
+394,Australia,England,night,1,0,1,0,1,78000,133.2042105,211,H
+395,West Indies,England,day,1,0,1,0,1,28000,114.846875,215,H
+396,West Indies,England,day,1,0,0,1,0,28000,125.3113333,215,A
+397,West Indies,England,day,1,0,0,1,0,28000,123.9552941,215,H
+398,England,New Zealand,night,0,0,0,1,1,22000,128.1981818,208,H
+399,England,Sri Lanka,night,0,0,1,0,0,22000,128.0258333,234,H
+400,England,South Africa,night,0,0,1,0,0,22000,129.1033333,219,H
+401,England,Sri Lanka,daynight,1,0,1,0,0,23500,123.6188235,234,H
+402,England,India,day,1,0,1,0,1,24803,115.1033333,231,H
+406,South Africa,Australia,night,1,0,0,1,1,25000,138.032,228,H
+407,South Africa,Australia,night,1,0,0,1,1,20000,130.1853333,228,L
+408,Australia,Pakistan,daynight,0,0,1,0,0,25000,114.9711111,230,H
+409,Australia,West Indies,daynight,0,0,1,0,1,25000,123.8275,224,H
+410,Australia,India,night,0,0,1,0,0,25000,114.0255,240,L
+411,Bangladesh,Australia,daynight,0,0,1,0,1,25000,129.8663636,181,H
+412,Australia,Pakistan,night,0,0,0,1,0,25000,96.82588235,230,L
+413,Australia,South Africa,night,1,0,1,0,1,50000,110.5723077,228,L
+414,Australia,South Africa,night,1,0,0,1,0,90000,109.165,228,L
+415,Australia,South Africa,night,1,0,1,0,0,78000,99.57277778,228,L
+418,South Africa,Sri Lanka,daynight,0,0,0,1,0,22000,122.7115789,251,L
+419,New Zealand,South Africa,daynight,0,0,1,0,0,22000,118.1629412,225,L
+421,India,South Africa,night,0,0,0,1,0,25000,126.1758333,248,A
+425,New Zealand,West Indies,night,1,0,1,0,1,41000,113.3605882,221,L
+426,New Zealand,West Indies,night,1,0,0,1,0,33500,123.3553333,221,A
+430,India,West Indies,night,0,0,1,0,0,25000,121.9685714,244,A
+431,Bangladesh,West Indies,daynight,0,0,1,0,0,25000,108.0968421,185,A
+433,Pakistan,West Indies,night,0,0,0,1,0,25000,111.0305263,234,A
+434,Sri Lanka,West Indies,night,0,0,1,0,1,25000,122.9215385,247,L
+435,West Indies,New Zealand,day,1,0,0,1,1,20000,127.652,221,L
+436,West Indies,New Zealand,day,1,0,0,1,1,20000,115.3515789,221,A
+437,West Indies,Bangladesh,night,1,0,0,1,0,8000,107.045,185,L
+442,New Zealand,Sri Lanka,night,0,0,1,0,0,22000,110.8204545,240,L
+445,New Zealand,Pakistan,night,0,0,0,1,1,25000,101.4107143,227,L
+446,New Zealand,Pakistan,night,0,0,0,1,1,25000,93.56857143,227,L
+447,India,Pakistan,night,0,0,1,0,0,25000,113.9507692,250,L
+449,Bangladesh,India,night,0,0,0,1,1,25000,113.4784615,201,A
+452,India,Sri Lanka,night,0,0,0,1,1,25000,122.1918182,263,A
+456,Bangladesh,Pakistan,daynight,0,0,0,1,0,25000,111.693125,191,A
+461,Bangladesh,Sri Lanka,daynight,1,0,1,0,0,22000,106.7117647,204,L
+462,Bangladesh,Sri Lanka,daynight,1,0,1,0,1,22000,106.759,204,L
+469,New Zealand,England,night,1,0,1,0,0,41000,134.3535,216,H
+470,New Zealand,England,night,1,0,0,1,1,10000,128.5668421,216,H
+471,New Zealand,England,night,1,0,0,1,1,33500,131.9809091,216,A
+472,England,New Zealand,night,1,0,1,0,0,23500,145.8730769,216,H
+473,England,New Zealand,night,1,0,0,1,1,23500,157.3666667,216,L
+474,England,Australia,night,1,0,1,0,0,6500,153.384375,220,H
+475,England,Australia,day,1,0,0,1,1,5000,144.8927778,220,H
+476,Australia,Sri Lanka,night,1,0,1,0,1,78000,129.2208333,234,L
+477,Australia,Sri Lanka,night,1,0,1,0,0,90000,138.3981818,234,L
+478,Australia,West Indies,night,1,0,0,1,0,37000,132.5694444,228,L
+481,India,Australia,night,1,0,1,0,0,28000,157.4766667,221,H
+482,South Africa,Pakistan,day,1,0,0,1,0,20000,89.6325,233,H
+483,Sri Lanka,South Africa,night,1,0,0,1,0,35000,106.4063158,246,L
+484,Sri Lanka,South Africa,night,1,0,0,1,0,35000,112.1952941,246,L
+485,Sri Lanka,South Africa,night,1,0,0,1,0,35000,117.6345455,246,H
+486,Pakistan,South Africa,night,0,0,1,0,1,25000,110.1392308,233,L
+487,Pakistan,South Africa,night,0,0,0,1,0,25000,107.9029412,233,L
+488,South Africa,Pakistan,night,1,0,0,1,1,28000,113.3638462,233,A
+489,South Africa,Pakistan,night,1,0,0,1,0,25000,124.5141667,233,A
+491,West Indies,Pakistan,day,1,0,1,0,1,20000,119.51,245,H
+492,West Indies,Pakistan,day,1,0,0,1,0,20000,120.4165,245,L
+498,Bangladesh,New Zealand,day,1,0,0,1,0,25000,141.5261111,180,H
+499,Sri Lanka,New Zealand,night,1,0,1,0,0,35000,124.0561538,230,L
+508,Afghanistan,Pakistan,night,0,0,1,0,1,16000,125.539375,247,L
+509,Pakistan,Sri Lanka,night,0,0,1,0,0,25000,125.52875,251,L
+510,Pakistan,Sri Lanka,night,0,0,1,0,0,25000,129.8913333,251,H
+513,Sri Lanka,Bangladesh,day,1,0,0,1,1,35000,126.944375,214,A
+520,Australia,England,night,1,0,1,0,1,44002,119.8727778,234,A
+521,England,West Indies,day,1,0,0,1,0,23500,118.0931579,203,A
+522,England,West Indies,day,1,0,0,1,0,23500,121.471875,203,L
+523,Australia,England,day,1,0,0,1,0,25000,125.3633333,234,A
+524,South Africa,England,night,0,0,0,1,1,25000,115.3422222,228,L
+525,England,New Zealand,day,0,1,1,0,0,25000,122.2,217,L
+526,England,India,night,0,0,0,1,0,25000,131.9014286,199,H
+529,Australia,Bangladesh,day,0,1,1,0,0,25000,109.3438462,175,L
+530,Australia,Pakistan,day,0,1,0,1,1,28000,134.702,240,A
+531,Australia,Sri Lanka,day,0,1,1,0,0,25000,110.5638462,241,L
+532,Australia,India,night,1,0,0,1,0,25000,136.2575,225,H
+533,India,Australia,night,1,0,0,1,0,20000,133.0016667,225,A
+534,Australia,New Zealand,night,1,0,1,0,1,18000,115.8747368,243,H
+535,South Africa,Pakistan,night,1,0,1,0,0,28000,127.9741667,234,H
+536,South Africa,West Indies,night,1,0,1,0,0,28000,134.5983333,223,H
+537,South Africa,Bangladesh,night,1,0,1,0,0,25000,106.929375,169,H
+539,South Africa,New Zealand,day,1,0,1,0,0,25000,114.534375,237,A
+540,South Africa,India,night,0,0,0,1,0,25000,117.6105556,219,A
+541,South Africa,New Zealand,night,1,0,1,0,0,28000,103.4283333,237,L
+542,South Africa,West Indies,night,1,0,0,1,1,19000,109.0241176,223,A
+546,Bangladesh,West Indies,day,0,1,1,0,0,28000,127.4046667,144,H
+548,New Zealand,Sri Lanka,day,1,0,1,0,1,28000,131.6684615,224,L
+549,India,New Zealand,day,0,1,1,0,0,28000,120.5731818,208,H
+552,New Zealand,Pakistan,day,1,0,1,0,1,25000,124.466875,223,L
+555,India,Pakistan,night,0,1,0,1,1,25000,131.0505556,205,A
+560,India,Pakistan,day,0,1,1,0,1,28000,155.6061111,205,A
+563,Bangladesh,Pakistan,day,1,0,1,0,0,7000,114.9105556,155,A
+565,Pakistan,Sri Lanka,night,0,1,0,1,1,28000,113.9131579,221,L
+567,Bangladesh,Pakistan,day,0,1,0,1,1,25000,111.4342105,155,L
+572,Bangladesh,Sri Lanka,night,0,1,1,0,0,28000,113.2927778,156,L
+574,New Zealand,England,night,1,0,1,0,0,41000,126.4519048,218,H
+575,New Zealand,England,night,1,0,0,1,0,36500,129.1194737,218,H
+576,England,New Zealand,day,1,0,1,0,0,19000,112.6161538,218,A
+577,Australia,India,night,1,0,0,1,0,90000,69.00357143,242,L
+578,West Indies,Australia,day,1,0,1,0,0,28000,114.39,228,H
+579,South Africa,West Indies,night,1,0,1,0,0,28000,100.4976471,226,A
+580,South Africa,Bangladesh,night,1,0,0,1,1,28000,106.9778947,174,L
+583,New Zealand,West Indies,daynight,1,0,1,0,1,41000,115.9668421,212,H
+584,New Zealand,West Indies,daynight,1,0,1,0,1,10000,120.0294737,212,H
+591,Pakistan,Bangladesh,night,1,0,1,0,1,20000,94.215,157,L
+592,Pakistan,Sri Lanka,day,0,0,1,0,0,20000,108.978,215,L
+593,Pakistan,Sri Lanka,day,0,0,0,1,1,20000,121.6175,215,L
+596,West Indies,England,day,1,0,1,0,0,25000,105.0782353,199,L
+597,England,Pakistan,daynight,0,0,0,1,1,23500,115.41125,220,L
+598,England,South Africa,daynight,0,0,1,0,1,15350,111.389375,234,L
+599,England,India,daynight,0,0,0,1,1,30000,121.72125,231,L
+600,England,West Indies,daynight,1,0,1,0,1,23500,123.1186667,199,L
+601,England,Australia,day,1,0,1,0,0,19000,117.2522222,233,L
+602,South Africa,England,night,1,0,1,0,0,28000,130.0861538,234,H
+603,South Africa,England,day,1,0,1,0,1,20000,122.2511111,234,H
+604,Australia,South Africa,night,1,0,1,0,1,90000,104.6759091,249,L
+605,Australia,South Africa,night,1,0,0,1,0,37000,118.3115385,249,L
+606,Australia,New Zealand,night,1,0,1,0,1,44002,100.8875,236,L
+607,South Africa,Australia,night,1,0,1,0,0,28000,122.0741176,249,A
+608,South Africa,Australia,night,1,0,0,1,1,20000,115.8470588,249,L
+609,Australia,Pakistan,day,0,0,0,1,1,25000,92.111875,235,L
+610,Australia,West Indies,day,0,1,1,0,1,23500,124.3992857,214,A
+611,Australia,Sri Lanka,daynight,1,0,0,1,1,15350,118.6947059,229,H
+617,New Zealand,South Africa,daynight,0,0,1,0,0,30000,124.5293333,237,L
+619,South Africa,West Indies,day,0,1,0,1,1,23500,121.361,215,H
+620,India,South Africa,daynight,0,0,0,1,0,15350,125.0570588,247,L
+621,Pakistan,South Africa,daynight,0,0,1,0,1,15350,127.2107692,236,L
+626,Sri Lanka,West Indies,day,0,1,0,1,1,15350,120.9392857,195,A
+627,India,West Indies,daynight,0,1,1,0,1,30000,128.5364286,212,L
+630,Sri Lanka,West Indies,daynight,0,1,0,1,1,23500,118.9466667,195,H
+631,West Indies,Bangladesh,day,1,0,0,1,0,8000,98.91333333,136,A
+633,New Zealand,India,night,1,0,1,0,0,36500,134.095,234,H
+634,New Zealand,India,night,1,0,1,0,0,33500,129.7506667,234,A
+636,New Zealand,Pakistan,daynight,0,0,1,0,1,23500,110.9876471,223,L
+637,New Zealand,Sri Lanka,day,0,0,0,1,0,15350,114.1322222,217,L
+638,Sri Lanka,New Zealand,night,1,0,0,1,0,35000,114.7266667,217,L
+639,Sri Lanka,New Zealand,night,1,0,0,1,0,35000,118.3486667,217,L
+640,New Zealand,Pakistan,night,1,0,1,0,0,25000,117.834,223,L
+641,New Zealand,Pakistan,night,1,0,0,1,0,25000,115.8176923,223,L
+642,Sri Lanka,India,night,1,0,1,0,1,35000,128.328,227,H
+645,Bangladesh,India,night,0,0,0,1,0,15350,122.5282353,168,L
+649,India,Sri Lanka,daynight,1,0,1,0,0,45000,145.3523529,227,H
+650,India,Sri Lanka,daynight,1,0,0,1,0,20000,148.368,227,H
+653,Pakistan,Sri Lanka,day,0,0,0,1,0,30000,118.917,216,L
+656,Pakistan,Sri Lanka,day,0,0,0,1,0,30000,114.2241667,216,L
+657,Sri Lanka,Pakistan,night,1,0,0,1,0,35000,110.115,216,L
+672,England,Pakistan,night,0,1,0,1,0,25000,99.79066667,214,L
+673,England,Pakistan,night,0,1,0,1,1,25000,105.77375,214,L
+674,West Indies,England,day,0,0,1,0,0,15000,118.1181818,182,A
+675,England,Pakistan,day,0,0,1,0,0,28000,126.8335294,214,A
+676,England,South Africa,day,0,1,1,0,1,28000,113.8375,227,L
+677,England,New Zealand,day,0,0,0,1,0,12400,116.7094118,224,L
+678,England,Sri Lanka,day,0,0,0,1,0,12400,110.6369231,218,L
+679,Australia,England,day,0,0,0,1,1,28000,133.39,243,L
+680,England,Pakistan,day,1,0,1,0,0,5500,113.7892308,214,L
+681,England,Pakistan,night,1,0,0,1,0,5500,113.1829412,214,L
+682,Australia,Pakistan,night,1,0,1,0,1,90000,112.0768182,237,L
+683,Australia,West Indies,night,1,0,1,0,1,15000,111.3084211,205,L
+684,Australia,West Indies,night,1,0,0,1,0,44002,119.0261538,205,H
+685,New Zealand,Australia,night,1,0,1,0,1,33500,106.4541176,247,L
+686,New Zealand,Australia,night,1,0,1,0,1,36500,115.5992308,247,H
+687,Australia,Pakistan,day,0,0,1,0,1,12400,120.4031818,237,A
+688,Australia,Bangladesh,day,0,0,1,0,1,28000,110.327,185,L
+689,Australia,India,day,0,0,0,1,1,28000,123.82,255,H
+690,Australia,Sri Lanka,day,0,0,1,0,1,28000,107.6916667,241,L
+691,West Indies,Australia,daynight,0,0,1,0,1,12400,115.9752941,205,L
+692,Australia,Pakistan,day,0,0,1,0,0,12400,125.54875,237,H
+694,Australia,Pakistan,day,0,1,0,1,0,24803,115.2735,237,A
+695,Australia,Pakistan,day,0,1,0,1,0,24803,110.0972727,237,H
+696,Australia,Sri Lanka,daynight,1,0,1,0,1,18000,129.9121429,241,A
+697,India,South Africa,day,0,1,0,1,1,12400,120.8807143,239,A
+698,Afghanistan,South Africa,daynight,0,1,1,0,0,28000,103.1195,245,A
+699,New Zealand,South Africa,day,0,1,0,1,0,28000,116.1053333,231,A
+701,Pakistan,South Africa,day,0,1,1,0,1,12400,115.3444444,221,L
+702,West Indies,South Africa,day,1,0,1,0,0,10000,107.108,189,L
+703,West Indies,South Africa,day,1,0,1,0,0,10000,109.0282353,189,L
+704,Pakistan,South Africa,night,0,0,1,0,1,20000,111.8741176,221,A
+705,Pakistan,South Africa,night,0,0,1,0,1,20000,110.533125,221,L
+709,West Indies,Sri Lanka,day,0,0,0,1,0,28000,102.0526667,180,A
+710,West Indies,India,day,0,0,0,1,1,28000,107.9626316,194,H
+714,New Zealand,Bangladesh,night,1,0,0,1,0,10000,85.99769231,166,H
+717,New Zealand,Sri Lanka,day,0,0,0,1,0,15000,106.0411765,222,L
+719,New Zealand,Pakistan,day,0,0,0,1,1,28000,117.3164706,218,L
+721,New Zealand,Sri Lanka,day,0,1,1,0,1,20000,98.427,222,L
+722,New Zealand,Sri Lanka,day,0,1,1,0,1,20000,97.4725,222,L
+723,New Zealand,Pakistan,day,1,0,1,0,0,41000,110.7188889,218,H
+724,New Zealand,Pakistan,night,1,0,0,1,1,10000,109.3905263,218,H
+725,New Zealand,Pakistan,night,1,0,0,1,0,36500,98.81052632,218,H
+726,Afghanistan,India,day,0,0,0,1,1,12400,103.734,250,L
+730,India,Sri Lanka,day,0,0,1,0,1,12400,116.1384615,230,L
+734,Bangladesh,Pakistan,day,0,0,0,1,0,12400,94.95785714,156,L
+757,Australia,England,night,1,0,1,0,1,50000,102.7082353,233,A
+758,Australia,England,night,1,0,1,0,1,90000,123.0276471,233,L
+759,England,Sri Lanka,day,1,0,0,1,1,7000,97.31,223,L
+760,England,India,night,1,0,0,1,0,19000,105.3311765,226,A
+761,England,West Indies,night,1,0,1,0,0,23500,92.02615385,173,L
+762,England,West Indies,night,1,0,1,0,0,23500,96.26,173,L
+763,India,England,night,1,0,1,0,1,66000,95.536875,226,L
+766,Sri Lanka,Australia,night,1,0,0,1,1,35000,123.9113333,246,H
+767,Sri Lanka,Australia,night,1,0,1,0,1,35000,107.6354545,246,A
+768,South Africa,Australia,night,1,0,1,0,1,25000,100.6175,244,L
+769,South Africa,Australia,day,1,0,0,1,0,28000,111.3694444,244,A
+770,South Africa,India,day,1,0,0,1,0,20000,114.3433333,237,A
+773,West Indies,Pakistan,day,1,0,1,0,1,12400,110.054,171,L
+774,West Indies,India,day,1,0,1,0,0,25000,116.9226667,189,L
+777,Bangladesh,West Indies,daynight,1,0,1,0,0,25000,88.82631579,136,L
+783,Pakistan,Sri Lanka,night,0,0,0,1,0,20000,92.23166667,221,L
+784,Bangladesh,Pakistan,daynight,1,0,0,1,0,25000,90.6805,171,L
+789,England,Pakistan,night,0,0,1,0,0,25000,111.048,236,L
+790,England,Pakistan,night,0,0,1,0,1,25000,104.748,236,A
+791,England,Pakistan,night,0,0,1,0,1,20000,111.022,236,L
+792,England,West Indies,day,1,0,0,1,0,15350,132.4654545,222,L
+793,England,South Africa,day,1,0,0,1,1,5000,117.8807143,251,L
+794,England,South Africa,night,1,0,1,0,0,19000,131.2827273,251,L
+795,England,South Africa,night,1,0,0,1,1,24803,121.4214286,251,A
+796,Afghanistan,England,night,0,0,1,0,0,35000,104.6944444,212,H
+797,England,India,night,0,0,1,0,0,35000,113.3058824,232,L
+798,England,West Indies,night,0,0,0,1,0,35000,131.4869231,222,H
+799,England,New Zealand,daynight,0,0,0,1,0,35000,124.2071429,243,L
+800,Sri Lanka,England,night,0,0,0,1,1,35000,118.7157895,246,A
+801,India,England,night,1,0,1,0,0,20000,115.0246667,232,L
+802,India,England,night,1,0,0,1,1,32000,117.6613333,232,A
+803,Australia,India,night,1,0,0,1,1,78000,113.3828571,210,L
+804,Australia,India,night,1,0,1,0,1,90000,109.5026667,210,L
+805,West Indies,Australia,day,1,0,1,0,1,12400,119.0107692,200,H
+806,West Indies,Australia,day,1,0,1,0,1,28000,109.9122727,200,A
+807,Australia,Pakistan,night,0,0,0,1,1,25000,108.105625,214,L
+808,Australia,Pakistan,night,0,0,0,1,0,25000,113.4373333,214,L
+809,Australia,Pakistan,night,0,0,0,1,1,25000,105.945,214,L
+810,Australia,West Indies,night,0,0,0,1,0,35000,122.45,200,H
+811,Australia,India,night,0,0,0,1,0,35000,121.1008333,210,H
+812,Australia,South Africa,daynight,0,0,1,0,0,35000,124.1772727,229,L
+813,Australia,Pakistan,daynight,0,0,1,0,0,35000,110.5329412,214,L
+814,Australia,West Indies,night,0,0,0,1,0,35000,118.255625,200,H
+815,New Zealand,South Africa,night,1,0,1,0,0,33500,128.2557143,236,L
+816,New Zealand,South Africa,night,1,0,0,1,1,10000,120.787,236,H
+817,New Zealand,South Africa,night,1,0,1,0,0,41000,127.0466667,236,A
+818,South Africa,India,daynight,1,0,0,1,1,28000,132.50625,225,H
+822,Sri Lanka,South Africa,daynight,0,0,1,0,0,35000,122.7461538,239,L
+823,Pakistan,South Africa,daynight,0,0,0,1,0,35000,117.9583333,229,A
+825,India,South Africa,night,0,0,0,1,1,35000,128.6605556,225,L
+826,South Africa,New Zealand,night,1,0,0,1,0,25000,110.49,236,H
+827,South Africa,New Zealand,night,1,0,0,1,1,15000,131.5145455,236,H
+828,South Africa,New Zealand,day,1,0,1,0,1,19000,120.3972222,236,A
+832,New Zealand,West Indies,day,0,1,1,0,0,20000,117.706,207,H
+833,New Zealand,West Indies,day,0,1,0,1,0,20000,114.2544444,207,A
+836,Sri Lanka,West Indies,night,0,0,0,1,0,35000,131.56,210,H
+837,New Zealand,West Indies,daynight,0,0,1,0,0,35000,116.6273684,207,L
+839,Sri Lanka,West Indies,night,0,0,0,1,0,35000,115.6726316,210,L
+840,Bangladesh,West Indies,night,1,0,0,1,0,25000,139.4222222,221,H
+846,India,New Zealand,night,1,0,1,0,0,38000,129.3892308,217,L
+847,Bangladesh,New Zealand,daynight,0,0,1,0,0,35000,124.9635714,242,A
+848,New Zealand,Pakistan,daynight,0,0,0,1,0,35000,116.4261111,221,A
+849,Sri Lanka,New Zealand,daynight,0,0,0,1,0,35000,122.3093333,231,L
+852,Sri Lanka,New Zealand,day,1,0,1,0,0,35000,118.5872727,231,L
+859,Sri Lanka,India,night,1,0,1,0,0,35000,107.340625,220,L
+861,Afghanistan,India,night,0,0,1,0,0,35000,119.5822222,186,A
+864,India,Pakistan,night,0,0,0,1,0,35000,110.4486667,210,L
+868,India,Pakistan,night,1,0,0,1,1,40000,106.6516667,210,L
+869,India,Pakistan,daynight,1,0,0,1,1,132000,119.1793333,210,H
+873,Sri Lanka,Pakistan,night,1,0,1,0,1,35000,94.6315,224,L
+874,Sri Lanka,Pakistan,night,1,0,0,1,0,35000,91.51789474,224,L
+879,Bangladesh,Pakistan,night,0,0,1,0,1,35000,122.3409091,235,H
+883,Sri Lanka,Pakistan,night,0,0,1,0,1,35000,114.4026667,224,L

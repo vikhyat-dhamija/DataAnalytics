@@ -1,0 +1,155 @@
+"Sno","Year","Country","Rating"
+0,2012,England,129
+1,2012,South Africa,122
+2,2012,Sri Lanka,117
+3,2012,New Zealand,114
+4,2012,Pakistan,107
+5,2012,Australia,107
+6,2012,India,103
+7,2012,Ireland,95
+8,2012,West Indies,93
+9,2012,Afghanistan,83
+10,2012,Netherlands,64
+0,2013,Sri Lanka,132
+1,2013,West Indies,126
+2,2013,India,119
+3,2013,Pakistan,119
+4,2013,England,118
+5,2013,South Africa,114
+6,2013,Australia,102
+7,2013,New Zealand,98
+8,2013,Bangladesh,82
+9,2013,Ireland,82
+10,2013,Zimbabwe,41
+0,2014,Sri Lanka,133
+1,2014,India,130
+2,2014,Pakistan,120
+3,2014,South Africa,118
+4,2014,West Indies,114
+5,2014,Australia,110
+6,2014,New Zealand,107
+7,2014,England,101
+8,2014,Ireland,85
+9,2014,Bangladesh,71
+10,2014,Afghanistan,66
+0,2015,Sri Lanka,135
+1,2015,India,124
+2,2015,Australia,122
+3,2015,West Indies,117
+4,2015,Pakistan,113
+5,2015,New Zealand,110
+6,2015,South Africa,110
+7,2015,England,100
+8,2015,Bangladesh,77
+9,2015,Afghanistan,62
+10,2015,Netherlands,60
+0,2016,New Zealand,132
+1,2016,India,132
+2,2016,West Indies,122
+3,2016,South Africa,119
+4,2016,England,114
+5,2016,Australia,110
+6,2016,Pakistan,104
+7,2016,Sri Lanka,98
+8,2016,Afghanistan,78
+9,2016,Bangladesh,74
+10,2016,Netherlands,67
+0,2017,New Zealand,125
+1,2017,England,121
+2,2017,Pakistan,121
+3,2017,India,118
+4,2017,South Africa,111
+5,2017,Australia,110
+6,2017,West Indies,109
+7,2017,Sri Lanka,95
+8,2017,Afghanistan,90
+9,2017,Bangladesh,78
+10,2017,Scotland,67
+0,2018,Pakistan,130
+1,2018,Australia,126
+2,2018,India,123
+3,2018,New Zealand,116
+4,2018,England,115
+5,2018,South Africa,114
+6,2018,West Indies,114
+7,2018,Afghanistan,87
+8,2018,Sri Lanka,85
+9,2018,Bangladesh,75
+10,2018,Scotland,66
+0,2019,Pakistan,286
+1,2019,South Africa,262
+2,2019,England,261
+3,2019,Australia,261
+4,2019,India,260
+5,2019,New Zealand,254
+6,2019,Afghanistan,241
+7,2019,Sri Lanka,227
+8,2019,West Indies,226
+9,2019,Bangladesh,220
+10,2019,Nepal,212
+0,2020,Australia,278
+1,2020,England,268
+2,2020,India,266
+3,2020,Pakistan,260
+4,2020,South Africa,258
+5,2020,New Zealand,242
+6,2020,Sri Lanka,230
+7,2020,Bangladesh,229
+8,2020,West Indies,229
+9,2020,Afghanistan,228
+10,2020,Zimbabwe,191
+0,2007,Australia,130
+1,2007,South Africa,124
+2,2007,New Zealand,113
+3,2007,Sri Lanka,111
+4,2007,Pakistan,110
+5,2007,India,95
+6,2007,England,104
+7,2007,West Indies,99
+8,2007,Bangladesh,45
+9,2007,Ireland,29
+10,2007,Zimbabwe,22
+0,2008,Australia,129
+1,2008,South Africa,127
+2,2008,India,113
+3,2008,New Zealand,113
+4,2008,Pakistan,110
+5,2008,England,105
+6,2008,Sri Lanka,105
+7,2008,West Indies,99
+8,2008,Bangladesh,47
+9,2008,Ireland,20
+10,2008,Zimbabwe,18
+0,2009,South Africa,125
+1,2009,Australia,124
+2,2009,India,122
+3,2009,New Zealand,112
+4,2009,Pakistan,111
+5,2009,England,109
+6,2009,Sri Lanka,105
+7,2009,West Indies,90
+8,2009,Bangladesh,46
+9,2009,Zimbabwe,23
+10,2009,Ireland,19
+0,2010,Australia,133
+1,2010,India,122
+2,2010,South Africa,117
+3,2010,New Zealand,114
+4,2010,England,110
+5,2010,Sri Lanka,108
+6,2010,Pakistan,104
+7,2010,West Indies,72
+8,2010,Bangladesh,52
+9,2010,Zimbabwe,27
+10,2010,Ireland,25
+0,2011,Australia,128
+1,2011,India,121
+2,2011,Sri Lanka,118
+3,2011,South Africa,116
+4,2011,England,105
+5,2011,Pakistan,103
+6,2011,New Zealand,94
+7,2011,Bangladesh,68
+8,2011,West Indies,68
+9,2011,Ireland,42
+10,2011,Zimbabwe,37
